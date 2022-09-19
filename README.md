@@ -5,7 +5,7 @@
     </div>  
       
     
-    ## **<div align="center">I'm Anderson, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>**  
+ <div align="center">I'm Anderson, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>
       
     
     - **🔭 I’m currently working on [Github laranja](https://github.com/eusouanderson/laranja)🍊
