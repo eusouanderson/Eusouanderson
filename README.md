@@ -116,70 +116,61 @@
 <table>
 <tr><tr><td valign="top" width="33%">
 
-<img src=https://hermes.digitalinnovation.one/assets/diome/logo.svg alt=Dio style="margin-bottom: 5px;" />
-<div class="animated fadeIn"><div class="col-md-10 offset-md-1"><div class="mt-4 mb-2 row"><div class="col-12 col-md-8"></div><div class="col-12 col-md-4"></div></div><div class="card"><div class="card-body"><div class="row"><div class="image mb-3 mb-md-0 d-none d-md-flex align-items-center justify-content-center  col-12 col-md-2"><img
+<img src=https://hermes.digitalinnovation.one/assets/diome/logo.svg alt=Samsung style="margin-bottom: 1px;"   />
+
 
 <div align="center">
+
 <div id="conjunto_certificados">
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/14E9CE76"cer_id=22" target="_blank">Aceleração Automação de Testes #TQI</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/49BF3680"cer_id=22" target="_blank">Tipos de testes e estratégias de automação</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/68126696"cer_id=22" target="_blank">Automação API com Rest Assured e Kotlin</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/BE2C3226"cer_id=22" target="_blank">Automação mobile com Appium</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/D422208F"cer_id=22" target="_blank">Papel do QA num time ágil</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/10504660"cer_id=22" target="_blank">Automação de Testes de Performance com Gatling</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/4150CD2E"cer_id=22" target="_blank">Introdução ao Sistema Operacional Linux</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/1B0F3BB2"cer_id=22" target="_blank">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/90C03DB9"cer_id=22" target="_blank">Introdução ao Git e ao GitHub</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/A6D6FCD7"cer_id=22" target="_blank">Introdução à Programação e Pensamento Computacional</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/0D499AA1"cer_id=22" target="_blank">Introdução ao Desenvolvimento Moderno de Software</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/84A5B1BB"cer_id=22" target="_blank">Seja Protagonista Neste Bootcamp</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/0E08DB03"cer_id=22" target="_blank">Conheça as Oportunidades da DIO</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/EB610E8F"cer_id=22" target="_blank">Aplicando o Estilo Arquitetural REST com Node.js</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/AFCD1175"cer_id=22" target="_blank">Introdução à programação com Python</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/E9D1DFF6"cer_id=22" target="_blank">Introdução a Ciência de Dados</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/1FF04A57"cer_id=22" target="_blank">Desafio prático: Introdução a Testes com Flask</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/28C90DFF"cer_id=22" target="_blank">Desafio prático: Extraindo dados da web com Python</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/B800BDDB"cer_id=22" target="_blank">Fundamentos de ETL com Python</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/EC703C76" cer_id=22" target="_blank">Criando Seu Ambiente de Desenvolvimento em Python</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/77235813" cer_id=22" target="_blank">Adicionando Segurança a uma API REST com Spring Security</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/A07BC099" cer_id=22" target="_blank">Instalação e Configuração do Visual Studio Code</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/F962FEDF" cer_id=22" target="_blank">Introdução as IDEs e Configuração de Ambiente .NET</a></div><div> 
-
 <div class="certificado"><a class="link_certificado" href="https://certificates.digitalinnovation.one/6280A655" cer_id=22" target="_blank">Carreira Tech: Como Decidir Entre Front-end, Back-end e Fullstack</a></div><div> 
 
 
 
+<img src='https://www.oceanbrasil.com/img/general/logoOceanI.png' alt=Samsung style="margin-bottom: 5px;" />
 
-
-
-
-<a href="https://web.dio.me/users/eusouanderson?tab=achievements" target="_blank">
-<img src='https://www.oceanbrasil.com/img/general/logoOceanI.png' alt=Dio style="margin-bottom: 5px;" />
-
-<div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3153&amp;student_id=51569&amp;cer_id=22" target="_blank">Avançando com Deep Learning</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3154&amp;student_id=51569&amp;cer_id=24" target="_blank">Introdução à Internet das Coisas</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3155&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3157&amp;student_id=51569&amp;cer_id=22" target="_blank">Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3158&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Backend com NodeJS e Express (Parte 2)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3159&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Laboratório de Backend e Banco de Dados com MongoDB</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3160&amp;student_id=51569&amp;cer_id=24" target="_blank">Prototipação no-code de soluções digitais (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3164&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Integrando os serviços de backend na nuvem</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3167&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Introdução (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3168&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3169&amp;student_id=51569&amp;cer_id=24" target="_blank">Desenvolvimento Ágil - DevOps Docker</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3170&amp;student_id=51569&amp;cer_id=22" target="_blank">Introdução aos dispositivos Wearables</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3171&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Introdução (Parte 2)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3172&amp;student_id=51569&amp;cer_id=22" target="_blank">Watch Face Studio com Wear OS</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3173&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 2)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3175&amp;student_id=51569&amp;cer_id=22" target="_blank">Laboratório de IoT com Arduino</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3176&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Integração com Backend (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3178&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 3)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3180&amp;student_id=51569&amp;cer_id=22" target="_blank">Ocean Talk: “A Nova Era dos Smartphones Dobráveis”</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3237&amp;student_id=51569&amp;cer_id=24" target="_blank">Consultando Bases SQL com Python (Parte 1)</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3240&amp;student_id=51569&amp;cer_id=24" target="_blank">Consultando Bases SQL com Python (Parte 2)</a></div>                            </div>
+<div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3153&amp;student_id=51569&amp;cer_id=22" target="_blank">Avançando com Deep Learning</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3154&amp;student_id=51569&amp;cer_id=24" target="_blank">Introdução à Internet das Coisas</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3155&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3157&amp;student_id=51569&amp;cer_id=22" target="_blank">Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3158&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Backend com NodeJS e Express (Parte 2)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3159&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Laboratório de Backend e Banco de Dados com MongoDB</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3160&amp;student_id=51569&amp;cer_id=24" target="_blank">Prototipação no-code de soluções digitais (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3164&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Integrando os serviços de backend na nuvem</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3167&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Introdução (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3168&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3169&amp;student_id=51569&amp;cer_id=24" target="_blank">Desenvolvimento Ágil - DevOps Docker</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3170&amp;student_id=51569&amp;cer_id=22" target="_blank">Introdução aos dispositivos Wearables</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3171&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Introdução (Parte 2)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3172&amp;student_id=51569&amp;cer_id=22" target="_blank">Watch Face Studio com Wear OS</a></div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3173&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 2)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3175&amp;student_id=51569&amp;cer_id=22" target="_blank">Laboratório de IoT com Arduino</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3176&amp;student_id=51569&amp;cer_id=24" target="_blank">[JORNADA FULLSTACK] Frontend Web com ReactJS: Integração com Backend (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3178&amp;student_id=51569&amp;cer_id=24" target="_blank">Linguagem Python: aprendendo a linguagem (Parte 3)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3180&amp;student_id=51569&amp;cer_id=22" target="_blank">Ocean Talk: “A Nova Era dos Smartphones Dobráveis”</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3237&amp;student_id=51569&amp;cer_id=24" target="_blank">Consultando Bases SQL com Python (Parte 1)</a>
+</div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3240&amp;student_id=51569&amp;cer_id=24" target="_blank">Consultando Bases SQL com Python (Parte 2)</a></div>
 <br/>
                                   
 </table>
