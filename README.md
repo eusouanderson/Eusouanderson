@@ -10,7 +10,7 @@
  **<div align="center">🔭 I’m currently working on [Github laranja](https://github.com/eusouanderson/laranja)🍊</div>**  
   
 
- **<div align="center">🌱 I’m currently learning Python and Tkinter</div>**  
+ **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
   
 
  **<div align="center">📈I am a programming student and beginner in the area...</div>**  
