@@ -13,10 +13,7 @@
  **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
   
 
- **<div align="center">📈I am a programming student and beginner in the area...</div>**  
-  
-
- **<div align="center">👶 But I was already playing with computers in my childhood</div>**  
+**<div align="center">👶 But I was already playing with computers in my childhood</div>**  
   
 
 <br/>  
