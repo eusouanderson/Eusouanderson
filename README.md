@@ -8,11 +8,6 @@
   
   <p> Social Impact </p>
 
-  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height=250/>
-</div>  
-  
 
 ### **<div align="center">👨‍💻 Hello my name is Anderson I'm a programming student and robotics lover 🚀</div>**  
   
@@ -22,10 +17,6 @@
 
  **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
   
-
-**<div align="center">👶 But I was already playing with computers in my childhood</div>**  
-  
-
 <br/>  
 
 
