@@ -1,4 +1,13 @@
+<div class="has-match">
+<div align="center">
 
+<img class="img-responsive" src="https://99prod.s3.amazonaws.com/uploads/170cf8db-78b6-4ff4-bf96-2addd1ef5291/2.png">
+Career Builder
+
+<img class="img-responsive" src="https://99prod.s3.amazonaws.com/uploads/9f812100-ea5f-49cf-afd2-e69160b6223b/3.png">
+Social Impact
+
+  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height=250/>
 </div>  
