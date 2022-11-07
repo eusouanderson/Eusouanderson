@@ -1,4 +1,16 @@
+
+### **<div align="center">👨‍💻 Hello my name is Anderson I'm a programming student and robotics lover 🚀</div>**  
+  
+
+ **<div align="center">🔭 I’m currently working on [Github laranja](https://github.com/eusouanderson/laranja)🍊</div>**  
+  
+
+ **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
+  
+<br/>  
+
 <div align="center">
+<img class="Digitação" src="https://static.typingclub.com/m/corp2/lessonplan-icons/typing-pt.png" >
 <div class="ed-paper dashboard-stats" tabindex="201" aria-label="your current speed is 0 wpm. your speed for last week was 21 wpm. your keyboard coverage is 64%. your accuracy is 94%."><h4>Speed</h4><div class="speed-progress-bar" aria-label="Current Speed null WPM"><span>Current Speed</span></div>
 
 <div class="speed-progress-bar" aria-label="Last week 21 WPM">
@@ -26,15 +38,6 @@
   <p> Social Impact </p>
 
 
-### **<div align="center">👨‍💻 Hello my name is Anderson I'm a programming student and robotics lover 🚀</div>**  
-  
-
- **<div align="center">🔭 I’m currently working on [Github laranja](https://github.com/eusouanderson/laranja)🍊</div>**  
-  
-
- **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
-  
-<br/>  
 
 
 ## My Skill Set  
