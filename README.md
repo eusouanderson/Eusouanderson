@@ -42,7 +42,7 @@
 
 ## My Skill Set  
 <table>
-<tr><tr><tr><td valign="top" width=25%>
+<td valign="top" width=25%>
 
 
 ### Frontend  
@@ -54,12 +54,12 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Tcl.svg" alt="TkInter" height="50" /></a>  
 
-</td><td valign="top" width="25%">
+<td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
 
-
+<a href="https://selenium-python.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://selenium-python.readthedocs.io/_static/logo.png" alt="Selenium" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -67,12 +67,11 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
-
-</td><td valign="top" width="25%">
-
+<td valign="top" width="25%">
+  
 ### Tools
 <div align="center"> 
-
+  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://octave.org/" target="_blank"><img style="margin:10px" src= "https://octave.org/img/octave-logo.svg" alt="GNU OCTAVE" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
@@ -100,7 +99,7 @@
 <a href="https://www.android.com" target="_blank"><img style="margin: 5px" src="https://freepngimg.com/thumb/android/127007-logo-android-pic-download-hd.png" alt="Android" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</table>  
 
 <br/>  
 
