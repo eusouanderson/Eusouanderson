@@ -9,23 +9,7 @@
   
 <br/>  
 
-<div align="center">
-<img class="Digitação" src="https://static.typingclub.com/m/corp2/lessonplan-icons/typing-pt.png" >
-<div class="ed-paper dashboard-stats" tabindex="201" aria-label="your current speed is 0 wpm. your speed for last week was 21 wpm. your keyboard coverage is 64%. your accuracy is 94%."><h4>Speed</h4><div class="speed-progress-bar" aria-label="Current Speed null WPM"><span>Current Speed</span></div>
 
-<div class="speed-progress-bar" aria-label="Last week 21 WPM">
-
-<div><span class="speed-title">Last week</span><span class="speed-label">21 WPM</span><div class="speed-track" style="width: 35%;">
-    
-
-<div class="practice-time-donut"><div class="progress-donut"><svg width="100%" height="100%" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#9de4f4" stroke-width="3"></circle><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#42c6db" stroke-width="4" stroke-dasharray="100 0" stroke-dashoffset="25"></circle></svg></div><div style="position: relative;"><span style="font-size: 15px; color: rgb(9, 146, 178);"><span><span>4<small>hr</small></span>, <small>53min</small></span></span><label style="color: rgb(9, 146, 178);"><i class="edicon-check-mark" style="position: relative; top: 8px;"></i><br><span>&nbsp;</span></label><div aria-label="Last week" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Last week</div></div></div>
-  
-<div class="practice-time-donut">
-<div class="progress-donut"><svg width="100%" height="100%" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#9de4f4" stroke-width="3"></circle><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#42c6db" stroke-width="4" stroke-dasharray="59.583333333333336 40.416666666666664" stroke-dashoffset="25"></circle></svg></div><div style="position: relative;"><span style="font-size: 15px; color: rgb(9, 146, 178);"><span><small>36 Minutes</small></span></span><label style="color: rgb(9, 146, 178);">Goal:<br><span><span>1<small> Hour</small></span></span></label><div aria-label="This week" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">This week</div></div></div><div class="practice-time-donut"><div class="progress-donut"><svg width="100%" height="100%" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#9de4f4" stroke-width="3"></circle><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#42c6db" stroke-width="4" stroke-dasharray="100 0" stroke-dashoffset="25"></circle></svg></div><div style="position: relative;"><span style="font-size: 15px; color: rgb(9, 146, 178);"><span><small>36 Minutes</small></span></span><label style="color: rgb(9, 146, 178);"><i class="edicon-check-mark" style="position: relative; top: 8px;"></i><br><span>&nbsp;</span></label><div aria-label="Today" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Today</div></div></div><div style="margin-top: 20px; margin-bottom: 15px; font-weight: normal; text-align: center;"><span>Overall Active Practice Time: </span><span style="font-weight: normal; color: rgb(66, 198, 219);"> <span><span>7<small>hr</small></span>, <small>17min</small></span></span></div>
-  
-<div class="bottom-stats" style="width: 50%; float: left;"><h5>Keyboard Coverage</h5><div style="color: rgb(242, 107, 211);"><span style="font-size: 2.2em;">64%</span></div></div><i class="bottom-stats-separator"></i><div class="bottom-stats" style="width: 47%; float: right;"><h5>Accuracy</h5><div style="color: rgb(137, 175, 229);"><div class="diff-label">-1<br><i class="edicon-arrow-down"></i>
-  
-</div><span style="font-size: 2.2em;">94%</span></div></div></div><hr>
 
 <div class="has-match">
 <div align="center">
