@@ -2,7 +2,7 @@
 ### **<div align="center">👨‍💻 Hello my name is Anderson I'm a programming student and robotics lover 🚀</div>**  
   
 
- **<div align="center">🔭 I’m currently working on [Github laranja](https://github.com/eusouanderson/laranja)🍊</div>**  
+ **<div align="center">🔭 I’m currently working on [.....](https://github.com/eusouanderson/laranja)🍊</div>**  
   
 
  **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
@@ -147,7 +147,6 @@
 
 
 
-<img src='https://www.oceanbrasil.com/img/general/logoOceanI.png' alt=Samsung style="margin-bottom: 5px;" />
 
 <div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3153&amp;student_id=51569&amp;cer_id=22" target="_blank">Avançando com Deep Learning</a>
 </div><div class="certificado"><a class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3154&amp;student_id=51569&amp;cer_id=24" target="_blank">Introdução à Internet das Coisas</a>
