@@ -5,7 +5,7 @@
  **<div align="center">🔭 I’m currently working on [.....](https://github.com/eusouanderson/laranja)🍊</div>**  
   
 
- **<div align="center">🌱 I’m currently learning Python, Matplotlib, Tkinter</div>**  
+ **<div align="center">🌱 I’m currently learning JavaScript </div>**  
   
 <br/>  
 
