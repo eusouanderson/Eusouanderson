@@ -19,7 +19,7 @@
 
 <img class="img-responsive" src="https://99prod.s3.amazonaws.com/uploads/9f812100-ea5f-49cf-afd2-e69160b6223b/3.png">
   
-  <p> Social Impact </p>
+  <p> Social Impact! </p>
 
 
 
