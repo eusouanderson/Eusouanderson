@@ -1,8 +1,6 @@
 
 ### **<div align="center">👨‍💻 Hello my name is Anderson I'm a programming and robotics lover 🚀</div>**  
   
-
- **<div align="center">🔭 I’m currently working on [.....](https://github.com/eusouanderson/laranja)🍊</div>**  
   
 
  **<div align="center">🌱 I’m currently learning JavaScript </div>**  
