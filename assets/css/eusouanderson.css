@@ -11778,27 +11778,11 @@ body.dark-theme {
   animation-iteration-count: infinite;
   background: linear-gradient(
   90deg,
-  #512D7A 0%,
-  #512D7A 35%,
-  #A65DFB 100%);
+  #5a2e2e 0%,
+  #394240 35%,
+  #2e2e2e 100%);
 }
-.box{
-  border-radius: 5px;
-  height: auto;
-  width: auto ;
-  background-color: #a0a0a7;
-  animation: color-back 8s 0s;
-  animation-iteration-count: infinite;
-  background: linear-gradient(
-  90deg,
-  #512D7A 0%,
-  #512D7A 35%,
-  #A65DFB 100%
-);
-}
-mark{
-  color: #A65DFB;
-}
+
 .imgrow{
   color: white;
   transition: transform 1s;
@@ -11809,13 +11793,13 @@ mark{
 }
 @Keyframes color-back{
   0%{
-    background:#630DC7;
+    background:#594747;
   }
   20%{
-    background:#7E11FA;
+    background:#2e2e2e;
   }
   50%{
-    background:#3E097A;
+    background:#594747;
   }
 }
 @keyframes go-back {
