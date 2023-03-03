@@ -1,4 +1,9 @@
-### Hi 👋
+~~~~
+👨‍💻 Hello my name is Anderson I'm a programming and robotics lover 🚀
+  
+
+🌱 I’m currently learning Python 
+~~~~
 
 <!--
 **eusouanderson/eusouanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
