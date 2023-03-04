@@ -72,7 +72,7 @@ Click on the image for more information
     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="35" /></a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="35" /></a><td>
     <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib.org" height="35" /></a>
-    <a href="https://networkx.org/" target="_blank"><img style="margin: 10px" src="https://networkx.org/_static/networkx_logo.svg" alt="networkx.org" height="35" /></a><td>
+    <a href="https://networkx.org/" target="_blank"><img style="margin: 10px" src="https://networkx.org/_static/networkx_logo.svg" alt="networkx.org" height="35" /></a>
   </table>  
 </div>
 
