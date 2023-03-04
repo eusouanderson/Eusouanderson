@@ -1,3 +1,8 @@
+~~~python
+python = "isLive"
+print(python)
+~~~~
+
 ~~~~
 👨‍💻 Hello my name is Anderson I'm a programming and robotics lover 🚀
   
