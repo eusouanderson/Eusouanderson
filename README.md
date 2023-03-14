@@ -1,6 +1,7 @@
 ~~~python
-python = "python is life"
-print(python)
+def python(txt):
+  python = f"{txt} is life"
+  print(python) 
 ~~~~
 
 ~~~~
