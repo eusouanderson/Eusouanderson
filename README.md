@@ -1,5 +1,5 @@
 ~~~python
-python = "isLive"
+python = "python is life"
 print(python)
 ~~~~
 
