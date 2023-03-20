@@ -25,7 +25,8 @@ $(document).ready(function(){
     });
 });
 
-
+var img = window.document.querySelector("b#img")
+img.addEventListener("fullscreenchange")
 
 // smooth scroll
 $(document).ready(function(){

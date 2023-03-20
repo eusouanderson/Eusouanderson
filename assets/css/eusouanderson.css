@@ -11551,7 +11551,7 @@ a{
   padding: auto;
   position: relative ;
   padding: 1px 30px;
-  color: #000;
+  color: whitesmoke;
   text-decoration: dashed;
   display: inline;
   text-transform: uppercase;
@@ -11759,44 +11759,54 @@ body.light-theme .contact-section .footer .links a {
 body.dark-theme {
   background: #212529;
 }
+
+.link_certificado{
+ animation:color-back 0.005s infinite;
+
+}
 .front{
-  border-radius: 5px;
+
   height: auto;
   width: auto ;
   background-color: #a0a0a7;
-  animation: color-back 8s 0s;
-  animation-iteration-count: infinite;
-  background: linear-gradient(
-  90deg,
-  #5a2e2e 0%,
-  #394240 35%,
-  #2e2e2e 100%);
+  background-size: auto;
+  border-left: 0px solid ;
+
+ 
+}
+img{
+  animation: go-back 4s 0s;
 }
 
 .imgrow{
   color: white;
   transition: transform 1s;
-  transform: translateX(8) scale(1.10);
+  transform: translateX(7) scale(1.10);
 }   
 .imgrow:hover, .img:focus {
   transform: translateX(10px) scale(1.0);
 }
 @Keyframes color-back{
   0%{
-    background:#594747;
+    color: whitesmoke;
+    transform: skewY(4.53c);
   }
   20%{
-    background:#2e2e2e;
+    color: whitesmoke;
+
+    
   }
-  50%{
-    background:#594747;
+  110%{
+    color: whitesmoke;
+    
   }
 }
 @keyframes go-back {
   0% {
-      transform: translateX(300px);
+      transform: translateX(900px);
+      transform: skewY(4.53c);
   }
   100% {
-      transform: translateX(0);
+      transform: translateX(-100);
   }
 }
