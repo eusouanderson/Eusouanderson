@@ -11761,16 +11761,21 @@ body.dark-theme {
 }
 
 .link_certificado{
- animation:color-back 0.005s infinite;
+  color: var(--white);
+  animation:color-back  infinite;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(60,52,9,1) 50%, rgba(0,0,0,1) 100%);
 
 }
 .front{
-
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(60,52,9,1) 50%, rgba(0,0,0,1) 100%);
   height: auto;
   width: auto ;
   background-color: #a0a0a7;
   background-size: auto;
   border-left: 0px solid ;
+  animation: color-back;
 
  
 }
@@ -11788,17 +11793,13 @@ img{
 }
 @Keyframes color-back{
   0%{
-    color: whitesmoke;
-    transform: skewY(4.53c);
+    color: black;
   }
   20%{
     color: whitesmoke;
-
-    
   }
   110%{
-    color: whitesmoke;
-    
+    color: black;
   }
 }
 @keyframes go-back {
