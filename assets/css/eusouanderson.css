@@ -4162,8 +4162,6 @@ a:hover {
   opacity: .5;
 }
 
-
-
 .form-control {
   border: 2px solid #6c757d;
   background: rgba(33, 37, 41, 0.2);
@@ -4231,6 +4229,7 @@ a:hover {
 
 .page-navbar .nav-navbar {
   height: auto;
+  margin: 0;
   list-style-type: none;
   padding-left: 0;
   display: -webkit-box;
@@ -4341,10 +4340,13 @@ a:hover {
   background-position: center;
   -webkit-transition: .2s;
   transition: .2s;
-  -webkit-transition-timing-function: linear;
-          transition-timing-function: linear;
+  /*-webkit-transition-timing-function: linear;
+          transition-timing-function: linear;*/
 }
+.certificate{
+  
 
+}
   
 .header .overlay {
   position: absolute;
