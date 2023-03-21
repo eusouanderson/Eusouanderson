@@ -1,7 +1,12 @@
 ~~~python
-def python(txt):
-  python = f"{txt} is life"
-  print(python) 
+def python(txt, name, lastname):
+  msg = txt
+  name = name
+  lastname = lastname
+  fullmsg = f" {msg} & {name} {lastname}"
+  print(fullmsg)
+
+python('Dev', 'Anderson' , 'Rodrigues')
 ~~~~
 
 ~~~~
