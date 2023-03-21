@@ -152,7 +152,9 @@ mark,
   margin-bottom: 1rem;
   font-size: 1.25rem;
 }
-
+img{
+  border-radius: 100%;
+}
 .blockquote-footer {
   display: block;
   font-size: 80%;
