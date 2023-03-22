@@ -6,7 +6,7 @@ class Pessoa:
         self.profissao = profissao
 
     def apresentacao(self):
-        print(f"Olá, meu nome é {self.nome}, tenho {self.idade} anos e sou {self.profissao}.")
+        print(f"Hello, my name is {self.nome}, have {self.idade} years and I am {self.profissao}.")
 
 
 p1 = Pessoa("Anderson", 35, "Dev")
