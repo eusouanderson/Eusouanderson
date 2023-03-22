@@ -1,12 +1,17 @@
 ~~~python
-def python(txt, name, lastname):
-  msg = txt
-  name = name
-  lastname = lastname
-  fullmsg = f" {msg} & {name} {lastname}"
-  print(fullmsg)
+class Pessoa:
+    def __init__(self, nome, idade, profissao):
+        self.nome = nome
+        self.idade = idade
+        self.profissao = profissao
 
-python('Dev', 'Anderson' , 'Rodrigues')
+    def apresentacao(self):
+        print(f"Olá, meu nome é {self.nome}, tenho {self.idade} anos e sou {self.profissao}.")
+
+
+p1 = Pessoa("Anderson", 35, "Dev")
+p1.apresentacao()
+
 ~~~~
 
 ~~~~
