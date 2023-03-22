@@ -152,9 +152,7 @@ mark,
   margin-bottom: 1rem;
   font-size: 1.25rem;
 }
-img{
-  border-radius: 100%;
-}
+
 .blockquote-footer {
   display: block;
   font-size: 80%;
@@ -4369,16 +4367,14 @@ a:hover {
       transform: translate(-50%, -50%);
 }
 
-
-
-
 html,
 body {
   height: 100%;
   align-items: auto;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-a{
+
+.bt1{
   padding: auto;
   position: relative ;
   padding: 1px 30px;
@@ -4443,7 +4439,6 @@ a.bt1:hover::after{
   background-image: radial-gradient(200% 130% at 48% 65%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.87), rgba(33, 37, 41, 0.99), #212529 55%, #212529 200%);
 }
 
-
 body.dark-theme {
   background: #212529;
 }
@@ -4460,22 +4455,27 @@ body.dark-theme {
   height: auto;
   width: auto ;
   background-color: #a0a0a7;
-  background-size: auto;
+  background-size: 20px;
   border-left: 0px solid ;
   animation: color-back;
-
- 
+  animation: go-back 10s 1s;
 }
+
+
 img{
-  animation: go-back 4s 0s;
+  backface-visibility: #16181b 100%;
+  animation: go-back 1s 0s;
 }
 
-.imgrow{
+img{
+  margin: 0;
+  text-align: center;
+  background: local;
   color: white;
   transition: transform 1s;
   transform: translateX(7) scale(1.10);
 }   
-.imgrow:hover, .img:focus {
+img:hover, .img:focus {
   transform: translateX(10px) scale(1.0);
 }
 @Keyframes color-back{
@@ -4492,9 +4492,10 @@ img{
 @keyframes go-back {
   0% {
       transform: translateX(900px);
-      transform: skewY(4.53c);
+      transform: translateY(10em);
   }
   100% {
-      transform: translateX(-100);
+      transform: translateX(-900);
+      transform: translateY(0em);
   }
 }
