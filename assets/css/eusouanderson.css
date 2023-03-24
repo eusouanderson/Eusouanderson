@@ -4463,10 +4463,10 @@ body.dark-theme {
   height: auto;
   width: auto ;
   background-color: #a0a0a7;
-  background-size: 20px;
+  background-size: auto;
   border-left: 0px solid ;
-  animation: color-back;
-  animation: go-back 10s 1s;
+  animation: color-back infinite;
+  /*animation: go-back 10s 1s;*/
 }
 
 
@@ -4486,17 +4486,19 @@ img{
 img:hover, .img:focus {
   transform: translateX(10px) scale(1.0);
 }
+
 @Keyframes color-back{
   0%{
     color: black;
   }
-  20%{
+  50%{
     color: whitesmoke;
   }
-  110%{
+  100%{
     color: black;
   }
 }
+
 @keyframes go-back {
   0% {
       transform: translateX(900px);
