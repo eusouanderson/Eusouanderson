@@ -4338,10 +4338,10 @@ a:hover {
   background-image: url(../imgs/header.webp);
   background-size: cover;
   background-position: center;
-  -webkit-transition: .2s;
-  transition: .2s;
-  /*-webkit-transition-timing-function: linear;
-          transition-timing-function: linear;*/
+  -webkit-transition: 20s;
+  transition: 25s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
 }
 .certificate{
   
