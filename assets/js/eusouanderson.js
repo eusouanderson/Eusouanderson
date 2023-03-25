@@ -14,6 +14,17 @@ const animeScroll = () => {
 }
 //animeScroll()//
 
+
 window.addEventListener("scroll", ()=>{
-    animeScroll();
-})
+  animeScroll();
+});
+
+const altura = window.screen.height;
+const largura = window.screen.width;
+console.log(altura);
+console.log(largura);
+
+const pagebar = window.document.getElementById("pagebar");
+console.log(pagebar);
+//pagebar.style.background = '#1975d1';
+pagebar.style.background.width = '130px';

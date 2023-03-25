@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
    <head>
       
       <meta charset="utf-8">
@@ -7,12 +7,12 @@
       <meta name="author" content="Anderson B.O.B">
       <meta name="Skills Update" >
       <title>i'm anderson</title>
-      <link rel="stylesheet" href="assets/css/eusouanderson.css">
+      <link rel="stylesheet" href="assets/css/eusouanderson.css" >
    </head>
    <!-- page body -->
    <body id="home" class="dark-theme">
       <!-- page navbar -->
-      <nav class="page-navbar" data-spy="affix" data-offset-top="5">
+      <nav class="page-navbar" id="pagebar" data-spy="affix" data-offset-top="5">
         <ul class="nav-navbar container">
         <a href="#" class="bt1">About </a>
         <a href="#skills" class="bt1">Skills </a>
@@ -36,7 +36,7 @@
       <b href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="35" height="35">
       <b href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="35"  height="35">
       <b href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Tcl.svg" alt="TkInter" width="35" height="35">
-      <b href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo-sm.png" alt="TkInter" width="35" height="35">
+      <b href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo-sm.png" alt="javascript" width="35" height="35">
       </table>
       </div>
       <h2>Backend</h2>
@@ -136,20 +136,20 @@
    </section>
 
       <!-- container -->
-      <section class=" col-lg-10 " aria-live="assertsive" >
-         <h2 id="contact">Contact</h6>
-         <div class="contact-section ">
-         <p class="mb-5">Send b message!</p>
-         <form  action="https://formsubmit.co/eusouanderson@outlook.com" method="POST">
-         <input type="text" name="name" class="form-control" placeholder="Name" required>
-         <input type="email" name="email" class="form-control" placeholder="Your best email" required>
-         <input type="hidden" name="_next" value="https://iamanderson.neocities.org/sucesso.html">
-         <textarea name="comment" id="comment" rows="6"   class="form-control" placeholder="Your message"></textarea>
-         <input type="hidden" name="_subject" value="New submission!">
-         <input type="submit" value="Enviar" class="form-control">
-         </form>
-         </div>
-      </section>
+   <section class=" col-lg-10 " aria-live="assertsive" >
+      <h2 id="contact">Contact</h6>
+      <div class="contact-section "data-spy="overlay">
+      <p class="mb-5">Send to message!</p>
+      <form  action="https://formsubmit.co/eusouanderson@outlook.com" method="POST">
+      <input type="text" name="name" class="form-control" placeholder="Name" required>
+      <input type="email" name="email" class="form-control" placeholder="Your best email" required>
+      <input type="hidden" name="_next" value="https://iamanderson.neocities.org/sucesso.html">
+      <textarea name="comment" id="comment" rows="6"   class="form-control" placeholder="Your message"></textarea>
+      <input type="hidden" name="_subject" value="New submission!">
+      <input type="submit" value="Enviar" class="form-control">
+      </form>
+      </div>
+   </section>
       <!-- footer -->
       <footer class="footer" >
          <div class="links">
@@ -160,10 +160,10 @@
       </div>
       </footer><!-- end of footer -->
       <!-- core  -->
-      <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
+      <script src="assets/vendors/jquery/jquery-3.4.1.js" defer></script>
       <!-- bootstrap affix -->
-      <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
+      <script src="assets/vendors/bootstrap/bootstrap.affix.js" defer></script>
       <!-- eusouanderson js -->
-      <script src="assets/js/eusouanderson.js"></script>
+      <script src="assets/js/eusouanderson.js" defer></script>
    </body>
 </html>

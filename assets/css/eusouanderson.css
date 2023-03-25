@@ -4215,9 +4215,6 @@ a:hover {
   position: fixed;
   width: 100%;
   top: 0;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   height: 110px;
   -webkit-transition: all, 0.5s;
@@ -4225,51 +4222,22 @@ a:hover {
 }
 
 .page-navbar .nav-navbar {
-  height: auto;
   margin: 0;
-  list-style-type: none;
   padding-left: 0;
-  display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
-
-.page-navbar .nav-navbar .nav-item {
-  -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-  text-align: center;
-  -webkit-flex-basis: 0;
-      -ms-flex-preferred-size: 0;
-          flex-basis: 0;
-}
-
 .page-navbar .nav-navbar .nav-link {
-  -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-  text-align: center;
-  -webkit-flex-basis: 0;
-      -ms-flex-preferred-size: 0;
-          flex-basis: 0;
+  text-align: left;
   flex-grow: 1;
   color: #f8f9fa;
   font-weight: bold;
-  text-decoration: none;
   font-size: calc(12px + (15 - 12) * ((100vw - 300px) / (1300 - 300)));
 }
 
 
 .page-navbar.affix {
   background: #212529;
-  height: 70px;
   border-bottom: 1px solid rgba(173, 181, 189, 0.1);
 }
 
