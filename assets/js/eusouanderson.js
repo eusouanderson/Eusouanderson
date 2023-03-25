@@ -21,10 +21,13 @@ window.addEventListener("scroll", ()=>{
 
 const altura = window.screen.height;
 const largura = window.screen.width;
-console.log(altura);
-console.log(largura);
+//console.log(altura);
+//console.log(largura);
 
 const pagebar = window.document.getElementById("pagebar");
-console.log(pagebar);
+//console.log(pagebar);
 //pagebar.style.background = '#1975d1';
-pagebar.style.background.width = '130px';
+//pagebar.style.background.width = '130%';
+
+const info = 'Eu ainda estou aprendendo javascript sorry :('
+console.log(info)
