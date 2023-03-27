@@ -1,16 +1,16 @@
 ~~~python
-class Pessoa:
-    def __init__(self, nome, idade, profissao):
-        self.nome = nome
-        self.idade = idade
-        self.profissao = profissao
+class Person:
+    def __init__(self, name, age, profession):
+        self.name = name
+        self.age = age
+        self.profession = profession
 
-    def apresentacao(self):
-        print(f"Hello, my name is {self.nome}, have {self.idade} years and I am {self.profissao}.")
+    def presentation(self):
+        print(f"Hello, my name is {self.name}, have {self.age} years and I am {self.profession}.")
 
 
-p1 = Pessoa("Anderson", 35, "Dev")
-p1.apresentacao()
+p1 = Person("Anderson", 35, "Dev")
+p1.presentation()
 
 ~~~~
 
