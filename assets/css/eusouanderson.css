@@ -4214,6 +4214,7 @@ a:hover {
   z-index: 999;
   position: fixed;
   width: 100%;
+  text-align: center;
   top: 0;
   display: flex;
   height: 110px;

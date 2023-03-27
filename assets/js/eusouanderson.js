@@ -24,10 +24,15 @@ const largura = window.screen.width;
 //console.log(altura);
 //console.log(largura);
 
-const pagebar = window.document.getElementById("pagebar");
+const pagebar = window.document.getElementById("page-navbar");
+const skills = window.document.getElementById("skills");
+const element = document.getElementById('navbarone');
+//console.log(element)
 //console.log(pagebar);
-//pagebar.style.background = '#1975d1';
-//pagebar.style.background.width = '130%';
+if (largura < 820){
+    element.classList.remove('nav-navbar');
+    skills.style.width = `${largura}px`;
+    skills.style.textAlignLast = 'center';
+};
 
-const info = 'Eu ainda estou aprendendo javascript sorry :('
-console.log(info)
+//pagebar.style.background.width = '130%';
