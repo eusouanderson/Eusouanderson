@@ -1,25 +1,19 @@
-~~~python
-class Person:
-    def __init__(self, name, age, profession):
-        self.name = name
-        self.age = age
-        self.profession = profession
+~~~
 
-    def presentation(self):
-        print(f"Hello, my name is {self.name}, have {self.age} years and I am {self.profession}.")
-
-
-p1 = Person("Anderson", 35, "Dev")
-p1.presentation()
+"Nothing in this world beats good old persistence. Talent does not surpass. 
+Nothing more common than talented failures. 
+Genius does not overcome. Unrecognized geniuses is practically a cliche. 
+Education does not exceed. The world is full of educated fools. 
+Persistence and determination alone are powerful."
 
 ~~~~
 
-~~~~
-👨‍💻 Hello my name is Anderson I'm a programming and robotics lover 🚀
+ 
+# 👨‍  💻 Hi my name is Anderson I'm a programming and robotics lover 🚀
   
 
-🌱 I’m currently learning Python 
-~~~~
+## 🌱 I’m currently learning Python 
+
 
 <!--
 **eusouanderson/eusouanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
