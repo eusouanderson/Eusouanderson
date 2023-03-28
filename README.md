@@ -9,10 +9,10 @@ Persistence and determination alone are powerful."
 ~~~~
 
  
-# 👨‍  💻 Hi my name is Anderson I'm a programming and robotics lover 🚀
+# Hi my name is Anderson I'm a programming and robotics lover 🚀
   
 
-## 🌱 I’m currently learning Python 
+##  I’m currently learning Python 
 
 
 <!--
