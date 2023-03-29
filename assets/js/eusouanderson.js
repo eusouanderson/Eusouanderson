@@ -34,7 +34,7 @@ let cont = document.getElementById("contact");
 let contCoordenadas = cont.getBoundingClientRect();
 console.log(contCoordenadas.height);
 //SPACE
-let space = 450;
+let space = 750;
 function Reload(){
 
     $('html, #about'). animate({ scrollTop: 0 }, space);
@@ -48,7 +48,7 @@ function Certificates(){
     $('html, certificate'). animate({ scrollTop: certificateCoordenadas.height}, space);
 }
 function Contact(){
-    $('html, contact'). animate({ scrollTop: 2500}, space);
+    $('html, contact'). animate({ scrollTop: 27000}, space);
 }
 window.addEventListener("scroll", ()=>{
   animeScroll();

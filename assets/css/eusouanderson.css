@@ -4064,6 +4064,7 @@ h2, h3, h4, h5, h6{
 
 }
 h1{
+  font-size: 25px;
   color: #aaadaf;
   font-weight: bold;
   background: #373434; 
@@ -4390,7 +4391,7 @@ body.dark-theme {
 .front{
   background: rgb(0,0,0);
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  height: 50px;
+  height: auto;
   width: auto ;
   background-color: #a0a0a7;
   background-size: auto;
