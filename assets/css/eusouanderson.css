@@ -4406,7 +4406,8 @@ img{
   backface-visibility: #080808 ;
   animation: go-back 1s 1s;
   opacity: 100%;
-  margin: 0;
+  margin: 10px;
+  padding: 8px;
   text-align: center;
   background: local;
   color: transparent;
