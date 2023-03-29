@@ -30,10 +30,16 @@
   --font-family-sans-serif: "Quicksand", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+*{
+  font-size: 15px;
+  width: auto;
 
+}
 body{
+  align-items: center;
   text-align: center;
-  font-family: var(--font-family-sans-serif);
+  font-family: var(--font-family-sans-serif) ;
+  
 }
 
 
@@ -56,13 +62,11 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 #position-static{
-  max-zoom: 60%;
   font-size: 25px;
-
 }
 
-h2, .h2 {
-  font-size: 2rem;
+h2{
+  font-size: 20px;
 }
 
 h3, .h3 {
@@ -214,8 +218,8 @@ pre code {
 }
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1822,8 +1826,8 @@ pre code {
 .form-control {
   display: flexbox;
   font-size: large;
-  width: 100%;
-  height: calc(1.5em + 0.75rem + 20px);
+  width: 50%;
+  height: calc(0.10em + 0.05rem + 10px);
   padding: 0;
   line-height: 1.5;
   color: #495057;
@@ -4381,21 +4385,20 @@ body.dark-theme {
 }
 .link_certificado:hover{
   color: rgb(139, 146, 115);
-  max-zoom: 100%;
+
 }
 .front{
-  
   background: rgb(0,0,0);
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  height: 80px;
+  height: 50px;
   width: auto ;
   background-color: #a0a0a7;
   background-size: auto;
-  border-left: 0px solid ;
-  animation: color-back 1s 1s;
+  animation: name duration timing-function delay iteration-count direction fill-mode;
+  animation: color-back 1s 1s ;
 }
 .front:hover{
-  height: 120px;
+  height: 80px;
 }
 
 img{
@@ -4407,11 +4410,7 @@ img{
   background: local;
   color: transparent;
 }   
-img:hover, .img:focus {
-  width: 100px;
-  height: 100px;
-  zoom: 150px;
-}
+
 
 @keyframes color-back{
   0%{

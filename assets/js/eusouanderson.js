@@ -1,12 +1,12 @@
 //skills animate
 
-const item = document.querySelectorAll("[data-anime");
-const altura = window.screen.height;
-const largura = window.screen.width;
-const letraTamanho = window.document.getElementById("position-static")
+let item = document.querySelectorAll("[data-anime");
+let altura = window.screen.height;
+let largura = window.screen.width;
+let letraTamanho = window.document.getElementById("position-static")
 
-const animeScroll = () => {
-    const windowTop = window.pageYOffset + window.innerHeight * 0.75;
+let animeScroll = () => {
+    let windowTop = window.pageYOffset + window.innerHeight * 0.75;
     
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
@@ -17,25 +17,42 @@ const animeScroll = () => {
 
     })
 }
-
+//NAVBAR
+let navb = document.getElementById("navbarone");
+let navbCoordenadas = navb.getBoundingClientRect();
+console.log(navbCoordenadas.height);
+//SKILL
+let skill = document.getElementById("skills");
+let skillCoordenadas = skill.getBoundingClientRect();
+console.log(skillCoordenadas.height);
+//CERTIFICATE
+let certificate = document.getElementById("certificato");
+let certificateCoordenadas = certificate.getBoundingClientRect();
+console.log(certificateCoordenadas.height);
+//CONTACT
+let cont = document.getElementById("contact");
+let contCoordenadas = cont.getBoundingClientRect();
+console.log(contCoordenadas.height);
+//SPACE
+let space = 450;
 function Reload(){
-    $('html, #about'). animate({ scrollTop: 0 }, 1500);
+
+    $('html, #about'). animate({ scrollTop: 0 }, space);
     
     //window.location.reload()
 }
 function Skills(){
-    $('html, skills'). animate({ scrollTop: altura -403}, 1500);
+    $('html, skills'). animate({ scrollTop: skillCoordenadas.height +300}, space);
 }
 function Certificates(){
-    $('html, certificate'). animate({ scrollTop: altura + 455}, 1500);
+    $('html, certificate'). animate({ scrollTop: certificateCoordenadas.height}, space);
 }
-
 function Contact(){
-    $('html, certificate'). animate({ scrollTop: altura + 2478 }, 1500);
+    $('html, contact'). animate({ scrollTop: 2500}, space);
 }
 window.addEventListener("scroll", ()=>{
   animeScroll();
-  console.log(window.pageYOffset- altura)
+  //console.log(window.pageYOffset- altura)
 });
 // Scroll bar Automatize
 
@@ -45,22 +62,12 @@ window.addEventListener("scroll", ()=>{
 //Mobile function
 
 
-console.log(`Essa é a altura ${altura}`);
-console.log(`Essa é a largura ${largura}`);
+//console.log(`Essa é a altura ${altura}`);
+//console.log(`Essa é a largura ${largura}`);
 
 
-const pagebar = window.document.getElementById("page-navbar");
-const skills = window.document.getElementById("skills");
-const element = document.getElementById('navbarone');
-//console.log(element)
-//console.log(pagebar);
-if (largura < 820){
-    element.classList.remove('nav-navbar');
-    element.style.textAlign = 'left'
-    element.style.padding = '0'
-    skills.style.width = `${largura}px`;
-    
-    //skills.style.textAlignLast = 'center';
-};
+let pagebar = window.document.getElementById("page-navbar");
+let skills = window.document.getElementById("skills");
+let element = document.getElementById('navbarone');
 
 //pagebar.style.background.width = '130%';
