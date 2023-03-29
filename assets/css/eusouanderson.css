@@ -4063,8 +4063,9 @@ h1{
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  animation: letter-go 10s 1;
+  animation: letter-go 1s 1;
   letter-spacing: 10px;
+  transform: translateX(-100px)
 }
 
 @keyframes letter-go {
@@ -4072,11 +4073,10 @@ h1{
     transform: translateX(100px);
     background: -webkit-linear-gradient(to right,#fcf8f8, #373434 );
   }
-  50%{background: -webkit-linear-gradient(to left,#131212, #ece7e7 );
+  50%{background: -webkit-linear-gradient(to right,#131212, #ece7e7 );
   }
   100% {
-    letter-spacing: 10px;
-    transform: translateX(0);
+    transform: translateX(-100px);
     background: -webkit-linear-gradient(to left,#fcf8f8, #373434 );
   }
 }
