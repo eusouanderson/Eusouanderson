@@ -4063,7 +4063,8 @@ h1{
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  animation: letter-go 10s;
+  animation: letter-go 10s 1;
+  letter-spacing: 10px;
 }
 
 @keyframes letter-go {
@@ -4071,9 +4072,10 @@ h1{
     transform: translateX(100px);
     background: -webkit-linear-gradient(to right,#fcf8f8, #373434 );
   }
-  50%{background: -webkit-linear-gradient(to left,#fcf8f8, #373434 );
+  50%{background: -webkit-linear-gradient(to left,#131212, #ece7e7 );
   }
   100% {
+    letter-spacing: 10px;
     transform: translateX(0);
     background: -webkit-linear-gradient(to left,#fcf8f8, #373434 );
   }
@@ -4271,18 +4273,23 @@ a:hover {
   height: 100%;
   width: 100%;
   background-image: -webkit-radial-gradient(48% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
-
+  
 }
 
 .header .header-content {
   position: absolute;
   left: 50%;
   top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
 }
+@keyframes flour {
+  0%{background-image: -webkit-radial-gradient(55% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
+  }
 
+  100%{background-image: -webkit-radial-gradient(10% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
+
+  }
+  
+}
 html,
 body {
   height: 100%;
@@ -4486,11 +4493,11 @@ img:hover, .img:focus {
   height: 100%;
   background: rgb(160,160,167);
   transform: rotateX(90deg)translateZ(-250px);
-  filter: blur(20px);
+  filter: blur(50px);
   box-shadow: 0 0 120px #a0a0a7,
     0 0 200px rgbargb(160,160,167, 8),
-    0 0 200px rgbargb(160,160,167, 7),
-    0 0 300px rgbargb(160,160,167, 6),
-    0 0 400px rgbargb(160,160,167, 5);
+    0 0 200px rgbargb(160,160,167, 9),
+    0 0 300px rgbargb(160,160,167, 10),
+    0 0 400px rgbargb(160,160,167, 11);
   
 }
