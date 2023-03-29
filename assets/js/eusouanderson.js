@@ -1,6 +1,9 @@
 //skills animate
 
 const item = document.querySelectorAll("[data-anime");
+const altura = window.screen.height;
+const largura = window.screen.width;
+const letraTamanho = window.document.getElementById("position-static")
 
 const animeScroll = () => {
     const windowTop = window.pageYOffset + window.innerHeight * 0.75;
@@ -14,24 +17,37 @@ const animeScroll = () => {
 
     })
 }
-//windowTop = 10;
+
+function Reload(){
+    $('html, #about'). animate({ scrollTop: 0 }, 1500);
+    
+    //window.location.reload()
+}
+function Skills(){
+    $('html, skills'). animate({ scrollTop: altura -403}, 1500);
+}
+function Certificates(){
+    $('html, certificate'). animate({ scrollTop: altura + 455}, 1500);
+}
+
+function Contact(){
+    $('html, certificate'). animate({ scrollTop: altura + 2478 }, 1500);
+}
 window.addEventListener("scroll", ()=>{
   animeScroll();
+  console.log(window.pageYOffset- altura)
 });
 // Scroll bar Automatize
-function ScrollBar() {
-    
-    console.log(windowTop);
-    
 
-}
+    
+//
 
 //Mobile function
 
-const altura = window.screen.height;
-const largura = window.screen.width;
-//console.log(altura);
-//console.log(largura);
+
+console.log(`Essa é a altura ${altura}`);
+console.log(`Essa é a largura ${largura}`);
+
 
 const pagebar = window.document.getElementById("page-navbar");
 const skills = window.document.getElementById("skills");

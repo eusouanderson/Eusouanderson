@@ -55,7 +55,11 @@ a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
 a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
+#position-static{
+  max-zoom: 60%;
+  font-size: 25px;
 
+}
 
 h2, .h2 {
   font-size: 2rem;
@@ -1817,8 +1821,9 @@ pre code {
 
 .form-control {
   display: flexbox;
+  font-size: large;
   width: 100%;
-  height: calc(1.5em + 0.75rem + 1px);
+  height: calc(1.5em + 0.75rem + 20px);
   padding: 0;
   line-height: 1.5;
   color: #495057;
@@ -4376,33 +4381,36 @@ body.dark-theme {
 }
 .link_certificado:hover{
   color: rgb(139, 146, 115);
+  max-zoom: 100%;
 }
 .front{
+  
   background: rgb(0,0,0);
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  height: auto;
+  height: 80px;
   width: auto ;
   background-color: #a0a0a7;
   background-size: auto;
   border-left: 0px solid ;
   animation: color-back 1s 1s;
 }
-
+.front:hover{
+  height: 120px;
+}
 
 img{
   backface-visibility: #080808 ;
   animation: go-back 1s 1s;
   opacity: 100%;
-}
-img{
   margin: 0;
   text-align: center;
   background: local;
-  color: white;
-  transition: transform 1s;
+  color: transparent;
 }   
 img:hover, .img:focus {
-  transform: translateX(10px) scale(1.0);
+  width: 100px;
+  height: 100px;
+  zoom: 150px;
 }
 
 @keyframes color-back{
