@@ -20,19 +20,19 @@ let animeScroll = () => {
 //NAVBAR
 let navb = document.getElementById("navbarone");
 let navbCoordenadas = navb.getBoundingClientRect();
-console.log(navbCoordenadas.height);
+//console.log(navbCoordenadas.height);
 //SKILL
 let skill = document.getElementById("skills");
 let skillCoordenadas = skill.getBoundingClientRect();
-console.log(skillCoordenadas.height);
+//console.log(skillCoordenadas.height);
 //CERTIFICATE
 let certificate = document.getElementById("certificato");
 let certificateCoordenadas = certificate.getBoundingClientRect();
-console.log(certificateCoordenadas.height);
+//console.log(certificateCoordenadas.height);
 //CONTACT
 let cont = document.getElementById("contact");
 let contCoordenadas = cont.getBoundingClientRect();
-console.log(contCoordenadas.height);
+//console.log(contCoordenadas.height);
 //SPACE
 let space = 750;
 function Reload(){
