@@ -168,54 +168,6 @@ mark,
   margin-right: 0.5rem;
 }
 
-.initialism {
-  font-size: 90%;
-  text-transform: uppercase;
-}
-
-.blockquote {
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-}
-
-.blockquote-footer {
-  display: block;
-  font-size: 80%;
-  color: #6c757d;
-}
-
-.blockquote-footer::before {
-  content: "\2014\00A0";
-}
-
-.img-fluid {
-  max-width: 100%;
-  height: auto;
-}
-
-.img-thumbnail {
-  padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
-  max-width: 100%;
-  height: auto;
-}
-
-.figure {
-  display: inline-block;
-}
-
-.figure-img {
-  margin-bottom: 0.5rem;
-  line-height: 1;
-}
-
-.figure-caption {
-  font-size: 90%;
-  color: #6c757d;
-}
-
 code {
   font-size: 87.5%;
   color: #e83e8c;
@@ -258,7 +210,6 @@ pre code {
 }
 
 .container {
-  width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -4383,24 +4334,16 @@ a.bt1:hover::after{
 
 /* Conatct section */
 .contact-section {
-  padding-top: auto;
-  z-index: auto;
+
   width: 500px;
-  text-align: center;
   color: transparent;
-  background-image: url(../imgs/header-light.webp);
   background-size: cover;
-  background-position: bottom;
   box-shadow: 10px 10px rgba(0, 0, 0, 0.521);
-  text-align: center;
   filter: brightness(80%)
 }
 
 .contact-section .overlay {
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  position: absolute;
-  left: 0;
-  top: 0;
   height: auto;
   width: auto;
   background-image: -webkit-radial-gradient(48% 65%, 0% 130%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.87), rgba(33, 37, 41, 0.99), #212529 55%, #212529 200%);
@@ -4413,7 +4356,6 @@ body.dark-theme {
 
 .link_certificado{
   --flow-space: var(--size-700);
- 
   width: 90vw;
   width: clamp(16rem, 90vw, 70rem);
   margin-left: auto;
@@ -4493,4 +4435,62 @@ img:hover, .img:focus {
       transform: translateX(-900);
       transform: translateY(0em);
   }
+}
+
+.pyramid{
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+  transform-style: preserve-3d;
+  animation: animatePyramid 8s linear infinite;
+}
+
+@keyframes animatePyramid 
+{
+  0%
+  {
+      transform: rotateX(-30deg) rotateY(0deg);
+  }
+  100%
+  {
+      transform: rotateX(-30deg) rotateY(360deg);
+  }
+    
+}
+
+.pyramid div{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+.pyramid div span{
+  position: absolute;
+  justify-content: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgb(160,160,167) 0%, rgba(60,52,0,0) 50%, #212529 100%);
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  transform: rotateY(calc(90deg * var(--i)))translateZ(150px) rotateX(30deg);
+  transform-origin: bottom;
+}
+.pyramid .glow{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(160,160,167);
+  transform: rotateX(90deg)translateZ(-250px);
+  filter: blur(20px);
+  box-shadow: 0 0 120px #a0a0a7,
+    0 0 200px rgbargb(160,160,167, 8),
+    0 0 200px rgbargb(160,160,167, 7),
+    0 0 300px rgbargb(160,160,167, 6),
+    0 0 400px rgbargb(160,160,167, 5);
+  
 }
