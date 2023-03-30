@@ -114,26 +114,26 @@ h6, .h6 {
   transform: translate3d(0, 0, 0);
 }
 
-
-.display-1 {
+/* Dislpay */
+[data-display="esse"].display-1 {
   font-size: 6rem;
   font-weight: 300;
   line-height: 1.2;
 }
 
-.display-2 {
+[data-display].display-2 {
   font-size: 5.5rem;
   font-weight: 300;
   line-height: 1.2;
 }
 
-.display-3 {
+[data-display].display-3 {
   font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
 }
 
-.display-4 {
+[data-display].display-4 {
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2;
@@ -218,8 +218,8 @@ pre code {
 }
 
 .container {
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: auto;
+  padding-left: 0;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1825,14 +1825,14 @@ pre code {
 
 .form-control {
   display: flexbox;
-  font-size: large;
-  width: 50%;
-  height: calc(0.10em + 0.05rem + 10px);
+  font-size: small;
+  width: 80%;
+  height: calc(0.25em + 0.15rem + 20px);
   padding: 0;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
-  border: 1px solid #ced4da;
+  background-color: #ffffff71;
+  border: 1px solid #c4d3e291;
   border-radius: 0.25rem;
 }
 
@@ -4389,17 +4389,19 @@ body.dark-theme {
 
 }
 .front{
+  align-items: center;
+  margin-left: auto;
   background: rgb(0,0,0);
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
   height: auto;
-  width: auto ;
+  width: 100%;
   background-color: #a0a0a7;
   background-size: auto;
   animation: name duration timing-function delay iteration-count direction fill-mode;
   animation: color-back 1s 1s ;
 }
 .front:hover{
-  height: 80px;
+  height: auto;
 }
 
 img{

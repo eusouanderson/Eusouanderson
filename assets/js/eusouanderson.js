@@ -1,13 +1,13 @@
 //skills animate
 
-let item = document.querySelectorAll("[data-anime");
-let altura = window.screen.height;
-let largura = window.screen.width;
-let letraTamanho = window.document.getElementById("position-static")
+var item = document.querySelectorAll("[data-anime");
+var altura = window.screen.height;
+var largura = window.screen.width;
+var letraTamanho = window.document.getElementById("position-static")
 
-let animeScroll = () => {
-    let windowTop = window.pageYOffset + window.innerHeight * 0.75;
-    
+var animeScroll = () => {
+    var windowTop = window.pageYOffset + window.innerHeight * 0.75;
+    console.log(windowTop -1827)
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
             element.classList.add('animate');
@@ -17,57 +17,110 @@ let animeScroll = () => {
 
     })
 }
+
+
+
+
 //NAVBAR
-let navb = document.getElementById("navbarone");
-let navbCoordenadas = navb.getBoundingClientRect();
+var navb = document.getElementById("navbarone");
+var navbCoordenadas = navb.getBoundingClientRect();
 //console.log(navbCoordenadas.height);
 //SKILL
-let skill = document.getElementById("skills");
-let skillCoordenadas = skill.getBoundingClientRect();
+var skill = document.getElementById("skills");
+var skillCoordenadas = skill.getBoundingClientRect();
 //console.log(skillCoordenadas.height);
 //CERTIFICATE
-let certificate = document.getElementById("certificato");
-let certificateCoordenadas = certificate.getBoundingClientRect();
+var certificate = document.getElementById("certificato");
+var certificateCoordenadas = certificate.getBoundingClientRect();
 //console.log(certificateCoordenadas.height);
 //CONTACT
-let cont = document.getElementById("contact");
-let contCoordenadas = cont.getBoundingClientRect();
+var cont = document.getElementById("contact");
+var contCoordenadas = cont.getBoundingClientRect();
 //console.log(contCoordenadas.height);
 //SPACE
-let space = 750;
-function Reload(){
+var space = 200;
 
-    $('html, #about'). animate({ scrollTop: 0 }, space);
-    
-    //window.location.reload()
+function Reload(){
+    //resol 640x 1136
+    if ((largura > 540 && largura <= 640) && altura >= 1136){
+        $('html, #about'). animate({ scrollTop: 0 }, space);
+    } 
+    //750 x 1334 
+    if ((largura > 640 && largura <= 750) && altura >= 1334){
+        $('html, #about'). animate({ scrollTop: 0}, space);
+    }
+    //1080 x 1920
+    if ((largura > 750 && largura <= 1080) && altura >= 1920){
+        $('html, #about'). animate({ scrollTop: 0}, space);
+    }
+    //1125 x 2436
+    if ((largura > 1080 && largura <= 1125) && altura >= 2436){
+        $('html, #about'). animate({ scrollTop: 0}, space);
+    }
+
 }
 function Skills(){
-    $('html, skills'). animate({ scrollTop: skillCoordenadas.height +300}, space);
-}
+    //resol 640x 1136
+    if ((largura > 540 && largura <= 640) && altura >= 1136){
+        $('html, skills'). animate({ scrollTop: 1139}, space);
+    }
+    //750 x 1334 
+    if ((largura > 640 && largura <= 750) && altura > 1334){
+        $('html, skills'). animate({ scrollTop: 1269}, space);
+    }
+    //1080 x 1920
+    if ((largura > 750 && largura <= 1080) && altura >= 1920){
+        $('html, skills'). animate({ scrollTop: 1223}, space);
+    }
+    //1125 x 2436x
+    if ((largura > 750 && largura <= 1080) && altura >= 2436){
+        $('html, skills'). animate({ scrollTop: 0}, space);
+    }
+
+}   
 function Certificates(){
-    $('html, certificate'). animate({ scrollTop: certificateCoordenadas.height}, space);
+    //resol 640x 1136
+    if ((largura > 540 && largura <= 640) && altura >= 1136){
+        $('html, certificate'). animate({ scrollTop: 2326}, space);
+    }
+    //750 x 1334 
+    if ((largura > 640 && largura <= 750) && altura > 1334){
+        $('html, certificate'). animate({ scrollTop: 2493}, space);
+    }
+    //1080 x 1920
+    if ((largura > 750 && largura <= 1080) && altura >= 1920){
+        $('html, certificate'). animate({ scrollTop: 2524}, space);
+    }
 }
 function Contact(){
-    $('html, contact'). animate({ scrollTop: 27000}, space);
-}
+    //resol 640x 1136
+    if ((largura > 540 && largura <= 640) && altura >= 1136){
+        $('html, contact'). animate({ scrollTop: 3717}, space);
+    }
+    //750 x 1334 
+    if ((largura > 640 && largura <= 750) && altura > 1334){
+        $('html, contact'). animate({ scrollTop: 3953}, space);
+    }
+    //1080 x 1920
+    if ((largura > 750 && largura <= 1080) && altura >= 1920){
+        $('html, contact'). animate({ scrollTop: 3507}, space);
+    }
+}   //1125 x 2436x
+
 window.addEventListener("scroll", ()=>{
-  animeScroll();
-  //console.log(window.pageYOffset- altura)
+animeScroll();
+//console.log(window.pageYOffset- altura)
 });
-// Scroll bar Automatize
 
-    
-//
 
-//Mobile function
 
 
 //console.log(`Essa é a altura ${altura}`);
 //console.log(`Essa é a largura ${largura}`);
 
 
-let pagebar = window.document.getElementById("page-navbar");
-let skills = window.document.getElementById("skills");
-let element = document.getElementById('navbarone');
+var pagebar = window.document.getElementById("page-navbar");
+var skills = window.document.getElementById("skills");
+var element = document.getElementById('navbarone');
 
 //pagebar.style.background.width = '130%';

@@ -15,13 +15,15 @@
    <!-- page body -->
    <body id="position-static" class="dark-theme">
       <!-- page navbar -->
-      <nav class="page-navbar"  data-spy="affix" data-offset-top="5">
+      <section >
+         <nav class="page-navbar"  data-spy="affix" data-offset-top="5">
         <div class="nav-navbar" id="navbarone">
         <a href="#about" class="bt1" onclick="Reload()">About </a>
         <a href="#skills" class="bt1" onclick="Skills()">Skills </a>
         <a href="#certificate" class="bt1"onclick="Certificates()">Certificates</a>
         <a href="#contact" class="bt1"onclick="Contact()">Contact </a> 
-      </nav>
+         </nav>
+      </section>   
 
       <header class="header">
          <div class="overlay"></div>
@@ -31,8 +33,7 @@
          </div>
       </header>
       <br/><br/><br/><br/><br/>
-      
-      <section class="container"   id="skills">
+      <section class="container" id="skills" >
          <p><h2>Frontend </h2></p>
          <div class="front" align="center"data-anime="left" >
          <table><td>
@@ -84,6 +85,7 @@
          </table>
          </div>
       </section>
+      <br/><br/><br/><br/><br/>
       <section class="container" id="certificato" data-anime="up">
          <br/><br/><br/><br/><br/>
          <br/><br/><br/><br/><br/>
@@ -139,8 +141,8 @@
          <br/><br/><br/><br/><br/><br/>
          <br/><br/><br/><br/><br/>
       </section>
+      <br/><br/><br/><br/><br/>
       <section class="container" id="contact" data-anime="up">
-
          <div class="pyramid" data-spy="overlay">
             <div class="glow"></div>
                <div>
@@ -154,20 +156,22 @@
                <span style="--i:3;"></span>
                </div>
          </div>
-         <br/><br/><br/><br/><br/><br/>
-         <section class="container" id="contact" data-anime="up">
-            <h2>Contact</h2>
-            <p>Send to message!</p>
-               <form  action="https://formsubmit.co/eusouanderson@outlook.com" method="POST">
-               <input type="text" name="name" class="form-control" placeholder="Name: " required>
-               <input type="email" name="email" class="form-control" placeholder="Email: " required>
-               <input type="hidden" name="_next" value="https://iamanderson.neocities.org/sucesso.html">
-               <textarea name="comment" id="comment" rows="6"   class="form-control" placeholder="Your message"></textarea>
-               <input type="hidden" name="_subject" value="New submission!">
-               <input type="submit" value="Enviar" class="form-control">
-               <input type="hidden" name="_captcha" value="false">
-               </form>
-         </section>
+      </section>   
+      <br/><br/><br/><br/><br/>
+      <section class="container" id="contact" data-anime="up">
+         <h2>Contact</h2>
+         <p>Send to message!</p>
+            <form  action="https://formsubmit.co/eusouanderson@outlook.com" method="POST">
+            <input type="text" name="name" class="form-control" placeholder="Name: " required>
+            <input type="email" name="email" class="form-control" placeholder="Email: " required>
+            <input type="hidden" name="_next" value="https://iamanderson.neocities.org/sucesso.html">
+            <textarea name="comment" id="comment" rows="6"   class="form-control" placeholder="Your message"></textarea>
+            <input type="hidden" name="_subject" value="New submission!">
+            <input type="submit" value="Enviar" class="form-control">
+            <input type="hidden" name="_captcha" value="false">
+            </form>
+      </section>
+      <br/><br/><br/><br/><br/>
       <section class="container" id="footer" data-anime="left">
          <img src= "https://avatars.githubusercontent.com/u/55605767?s=96&v=4" alt="Avatar" width="55" height="50" >
             <script>document.write(new Date().getFullYear())</script>
@@ -182,5 +186,6 @@
          <!-- eusouanderson js -->
          <script src="assets/js/eusouanderson.js" defer></script>
       </section>
+      <br/><br/><br/><br/><br/>
    </body>
 </html>
