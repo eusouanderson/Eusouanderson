@@ -19,8 +19,6 @@ var animeScroll = () => {
 }
 
 
-
-
 //NAVBAR
 var navb = document.getElementById("navbarone");
 var navbCoordenadas = navb.getBoundingClientRect();
@@ -40,6 +38,7 @@ var contCoordenadas = cont.getBoundingClientRect();
 //SPACE
 var space = 200;
 
+//Mobile Functions///
 function Reload(){
     //resol 640x 1136
     if ((largura > 540 && largura <= 640) && altura >= 1136){
