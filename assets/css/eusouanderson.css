@@ -31,14 +31,17 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 *{
-  font-size: 17px;
+  image-rendering: auto;
   width: auto;
-
+  size: 50px;
+  padding: 0;
+  
 }
 body{
   align-items: center;
   text-align: center;
   font-family: var(--font-family-monospace) ;
+  
   
 }
 .selector-for-some-widget {
@@ -141,18 +144,6 @@ h6, .h6 {
   line-height: 1.2;
 }
 
-hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-
-small,
-.small {
-  font-size: 80%;
-  font-weight: 400;
-}
 
 mark,
 .mark {
@@ -220,10 +211,9 @@ pre code {
 }
 
 .container {
-  padding-right: auto;
-  padding-left: 0;
-  margin-right: auto;
-  margin-left: auto;
+  font-size: 15%;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 @media (min-width: 576px) {
@@ -4175,6 +4165,7 @@ a:hover {
 
 /* page navbar */
 .page-navbar1{
+
   z-index: 999;
   position: fixed;
   width: 10%;
@@ -4189,7 +4180,9 @@ a:hover {
 
 
 .page-navbar {
+  font-size: 40%;
   z-index: 999;
+  padding: 0px;
   position: fixed;
   width: 100%;
   text-align: center;
@@ -4287,7 +4280,8 @@ a:hover {
   -webkit-transition-timing-function: linear;
           transition-timing-function: linear;
 }
-.certificate{
+.certificat{
+  font-size: 50%;
   
 
 }
@@ -4406,30 +4400,19 @@ body.dark-theme {
 
 }
 .front{
-  align-items: center;
-  margin-left: auto;
-  background: rgb(0,0,0);
-  background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  height: auto;
   width: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
   background-color: #a0a0a7;
-  background-size: auto;
-  animation: name duration timing-function delay iteration-count direction fill-mode;
   animation: color-back 1s 1s ;
-}
-.front:hover{
-  height: auto;
 }
 
 img{
-  backface-visibility: #080808 ;
+  position: static;
   animation: go-back 1s 1s;
-  opacity: 100%;
   margin: 10px;
   padding: 8px;
-  text-align: center;
-  background: local;
-  color: transparent;
 }   
 
 

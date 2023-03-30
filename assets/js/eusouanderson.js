@@ -7,7 +7,7 @@ var letraTamanho = window.document.getElementById("position-static")
 
 var animeScroll = () => {
     var windowTop = window.pageYOffset + window.innerHeight * 0.75;
-    console.log(windowTop-853.5)
+    console.log(windowTop-488.25)
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
             element.classList.add('animate');
@@ -36,7 +36,7 @@ var cont = document.getElementById("contact");
 var contCoordenadas = cont.getBoundingClientRect();
 //console.log(contCoordenadas.height);
 //SPACE
-var space = 200;
+var space = 800;
 
 //Mobile Functions///
 function Reload(){
@@ -77,7 +77,7 @@ function Skills(){
     if ((largura > 750 && largura <= 1080) && altura >= 2436){
         $('html, skills'). animate({ scrollTop: 0}, space);
     }else{
-        $('html, skills'). animate({ scrollTop: 880}, space);
+        $('html, skills'). animate({ scrollTop: 710}, space);
     }
 
 }   
@@ -94,7 +94,7 @@ function Certificates(){
     if ((largura > 750 && largura <= 1080) && altura >= 1920){
         $('html, certificate'). animate({ scrollTop: 2524}, space);
     }else{
-        $('html, certificate'). animate({ scrollTop: 2033}, space);
+        $('html, certificate'). animate({ scrollTop: 1816}, space);
     }
 }
 function Contact(){
@@ -110,7 +110,7 @@ function Contact(){
     if ((largura > 750 && largura <= 1080) && altura >= 1920){
         $('html, contact'). animate({ scrollTop: 3507}, space);
     }else{
-        $('html, contact'). animate({ scrollTop: 3425}, space);
+        $('html, contact'). animate({ scrollTop: 3242}, space);
     }
 }  
 
