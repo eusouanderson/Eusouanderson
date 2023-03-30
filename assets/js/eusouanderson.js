@@ -7,7 +7,7 @@ var letraTamanho = window.document.getElementById("position-static")
 
 var animeScroll = () => {
     var windowTop = window.pageYOffset + window.innerHeight * 0.75;
-    console.log(windowTop -1827)
+    console.log(windowTop-853.5)
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
             element.classList.add('animate');
@@ -41,7 +41,7 @@ var space = 200;
 //Mobile Functions///
 function Reload(){
     //resol 640x 1136
-    if ((largura > 540 && largura <= 640) && altura >= 1136){
+    if ((largura >= 540 && largura <= 640) && altura >= 1136){
         $('html, #about'). animate({ scrollTop: 0 }, space);
     } 
     //750 x 1334 
@@ -55,17 +55,19 @@ function Reload(){
     //1125 x 2436
     if ((largura > 1080 && largura <= 1125) && altura >= 2436){
         $('html, #about'). animate({ scrollTop: 0}, space);
+    }else{
+        $('html, #about'). animate({ scrollTop: 0}, space);
     }
 
 }
 function Skills(){
     //resol 640x 1136
-    if ((largura > 540 && largura <= 640) && altura >= 1136){
-        $('html, skills'). animate({ scrollTop: 1139}, space);
+    if ((largura >= 540 && largura <= 640) && altura >= 1136){
+        $('html, skills'). animate({ scrollTop: 1162}, space);
     }
     //750 x 1334 
-    if ((largura > 640 && largura <= 750) && altura > 1334){
-        $('html, skills'). animate({ scrollTop: 1269}, space);
+    if ((largura > 640 && largura <= 750) && altura >= 1334){
+        $('html, skills'). animate({ scrollTop: 1388}, space);
     }
     //1080 x 1920
     if ((largura > 750 && largura <= 1080) && altura >= 1920){
@@ -74,37 +76,43 @@ function Skills(){
     //1125 x 2436x
     if ((largura > 750 && largura <= 1080) && altura >= 2436){
         $('html, skills'). animate({ scrollTop: 0}, space);
+    }else{
+        $('html, skills'). animate({ scrollTop: 880}, space);
     }
 
 }   
 function Certificates(){
     //resol 640x 1136
-    if ((largura > 540 && largura <= 640) && altura >= 1136){
+    if ((largura >= 540 && largura <= 640) && altura >= 1136){
         $('html, certificate'). animate({ scrollTop: 2326}, space);
     }
     //750 x 1334 
-    if ((largura > 640 && largura <= 750) && altura > 1334){
-        $('html, certificate'). animate({ scrollTop: 2493}, space);
+    if ((largura > 640 && largura <= 750) && altura >= 1334){
+        $('html, certificate'). animate({ scrollTop: 2553}, space);
     }
     //1080 x 1920
     if ((largura > 750 && largura <= 1080) && altura >= 1920){
         $('html, certificate'). animate({ scrollTop: 2524}, space);
+    }else{
+        $('html, certificate'). animate({ scrollTop: 2033}, space);
     }
 }
 function Contact(){
     //resol 640x 1136
-    if ((largura > 540 && largura <= 640) && altura >= 1136){
-        $('html, contact'). animate({ scrollTop: 3717}, space);
+    if ((largura >= 540 && largura <= 640) && altura >= 1136){
+        $('html, contact'). animate({ scrollTop: 4227}, space);
     }
     //750 x 1334 
-    if ((largura > 640 && largura <= 750) && altura > 1334){
-        $('html, contact'). animate({ scrollTop: 3953}, space);
+    if ((largura > 640 && largura <= 750) && altura >= 1334){
+        $('html, contact'). animate({ scrollTop: 4291}, space);
     }
     //1080 x 1920
     if ((largura > 750 && largura <= 1080) && altura >= 1920){
         $('html, contact'). animate({ scrollTop: 3507}, space);
+    }else{
+        $('html, contact'). animate({ scrollTop: 3425}, space);
     }
-}   //1125 x 2436x
+}  
 
 window.addEventListener("scroll", ()=>{
 animeScroll();
