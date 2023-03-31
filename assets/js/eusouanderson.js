@@ -4,10 +4,14 @@ var item = document.querySelectorAll("[data-anime");
 var altura = window.screen.height;
 var largura = window.screen.width;
 var letraTamanho = window.document.getElementById("position-static")
+var test = () => {
+    var windowTop = window.pageYOffset + window.innerHeight * 0.75;
+    console.log(window.pageYOffset)
+}
 
 var animeScroll = () => {
     var windowTop = window.pageYOffset + window.innerHeight * 0.75;
-    console.log(windowTop-488.25)
+    //console.log(windowTop- 852)
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
             element.classList.add('animate');
@@ -112,10 +116,26 @@ function Contact(){
     }else{
         $('html, contact'). animate({ scrollTop: 3242}, space);
     }
-}  
+}
+function Work(){
+    if ((largura >= 540 && largura <= 640) && altura >= 1136){
+        $('html, contact'). animate({ scrollTop: 2765}, space);
+    }
+    //750 x 1334 
+    if ((largura > 640 && largura <= 750) && altura >= 1334){
+        $('html, contact'). animate({ scrollTop: 2765}, space);
+    }
+    //1080 x 1920
+    if ((largura > 750 && largura <= 1080) && altura >= 1920){
+        $('html, contact'). animate({ scrollTop: 2765}, space);
+    }else{
+        $('html, contact'). animate({ scrollTop: 2765}, space);
+    }
+}
 
 window.addEventListener("scroll", ()=>{
 animeScroll();
+test()
 //console.log(window.pageYOffset- altura)
 });
 
