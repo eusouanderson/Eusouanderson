@@ -4402,6 +4402,7 @@ body.dark-theme {
 .front{
   width: 100%;
   margin: 0;
+  margin-right: 0;
   padding: 0;
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
   background-color: #a0a0a7;
