@@ -66,7 +66,8 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 #position-static{
-  font-size: 25px;
+  font-size: 25px ;
+  width: auto;
 }
 
 h2{
@@ -4161,26 +4162,11 @@ a:hover {
 }
 
 /* page navbar */
-.page-navbar1{
-
-  z-index: 999;
-  position: fixed;
-  width: 10%;
-  top: 100px;
-  display:flex;
-  flex-direction: row-reverse;
-  writing-mode:sideways-rl;
-  scroll-padding-top: 150px;
-    -webkit-transition: all, 0.5s;
-  transition: all, 0.50s;
-}
-
 
 .page-navbar {
-  font-size: 50%;
+  font-size: 40%;
   z-index: 999;
   padding: 0px;
-  position: fixed;
   width: 100%;
   text-align: center;
   top: 0;
@@ -4191,13 +4177,15 @@ a:hover {
 }
 
 .page-navbar .nav-navbar {
-  margin: 5%;
+  
+  margin: 0;
   padding-left: 0;
-  display: block;
+  display: -webkit-flex;
   align-items: center;
 
 }
 .page-navbar .nav-navbar .nav-link {
+  position: fixed;
   text-align: left;
   flex-grow: 1;
   color: #f8f9fa;
@@ -4207,6 +4195,7 @@ a:hover {
 
 
 .page-navbar.affix {
+  position: fixed;
   background: #212529;
   border-bottom: 1px solid rgba(173, 181, 189, 0.1);
 }
@@ -4500,7 +4489,7 @@ img{
   height: 100%;
   background: rgb(160,160,167);
   transform: rotateX(90deg)translateZ(-250px);
-  filter: blur(35px);
+  filter: blur(50px);
   box-shadow: 0 0 120px #a0a0a7,
     0 0 200px rgbargb(160,160,167, 8),
     0 0 200px rgbargb(160,160,167, 9),

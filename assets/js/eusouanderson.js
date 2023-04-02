@@ -1,12 +1,15 @@
 //skills animate
 
 var item = document.querySelectorAll("[data-anime");
-var altura = window.screen.height;
 var largura = window.screen.width;
+var altura = window.screen.height;
+
 var letraTamanho = window.document.getElementById("position-static")
 var test = () => {
     var windowTop = window.pageYOffset + window.innerHeight * 0.75;
-    console.log(window.pageYOffset)
+    var larguraTela = largura;
+    var alturaTela = altura;
+    console.log(`${larguraTela} x ${alturaTela}`)
 }
 
 var animeScroll = () => {
