@@ -4174,6 +4174,7 @@ a:hover {
   height: 110px;
   -webkit-transition: all, 0.5s;
   transition: all, 0.5s;
+  
 }
 
 .page-navbar .nav-navbar {
@@ -4194,7 +4195,9 @@ a:hover {
 }
 
 
-.page-navbar.affix {
+.affix {
+  width: 100%;
+  font-size: 40%;
   position: fixed;
   background: #212529;
   border-bottom: 1px solid rgba(173, 181, 189, 0.1);
@@ -4393,9 +4396,10 @@ body.dark-theme {
   background-color: #a0a0a7;
   animation: color-back 1s 1s ;
 }
-
+.front img{
+  width: 100%;
+}
 img{
-  animation: go-back 1s 1s;
   margin: 10px;
   padding: 8px;
 }   

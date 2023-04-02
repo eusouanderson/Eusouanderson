@@ -1,3 +1,5 @@
+
+
 //skills animate
 
 var item = document.querySelectorAll("[data-anime");
@@ -27,9 +29,8 @@ var animeScroll = () => {
 
 
 //NAVBAR
-var navb = document.getElementById("navbarone");
-var navbCoordenadas = navb.getBoundingClientRect();
-//console.log(navbCoordenadas.height);
+
+
 //SKILL
 var skill = document.getElementById("skills");
 var skillCoordenadas = skill.getBoundingClientRect();
