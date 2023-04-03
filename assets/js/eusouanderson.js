@@ -11,7 +11,7 @@ var test = () => {
     var windowTop = window.pageYOffset + window.innerHeight * 0.75;
     var larguraTela = largura;
     var alturaTela = altura;
-    console.log(`${larguraTela} x ${alturaTela}`)
+    //console.log(`${larguraTela} x ${alturaTela}`)
 }
 
 var animeScroll = () => {

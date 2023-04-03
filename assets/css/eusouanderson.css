@@ -4055,13 +4055,11 @@ h1{
   font-size: 25px;
   color: #aaadaf;
   font-weight: bold;
-  background: #373434; 
-  background: -webkit-linear-gradient(to right, #373434, #fcf8f8);
-  background: linear-gradient(to right, #373434, #fcf8f8); 
+  background: linear-gradient(to right, #5e5e6e, #fcf8f8); 
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  animation: letter-go 1s 1;
+  animation: letter-go 8s 1;
   letter-spacing: 10px;
   transform: translateX(-100px)
 }
@@ -4084,11 +4082,11 @@ h1{
 }
 
 p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: calc(13px + (15 - 13) * ((100vw - 300px) / (1300 - 300)));
   opacity: .9;
   font-weight: 400;
   letter-spacing: .6px;
-  color: #fff;
 }
 
 a {
@@ -4400,6 +4398,7 @@ body.dark-theme {
   width: 100%;
 }
 img{
+  width: auto;
   margin: 10px;
   padding: 8px;
 }   
