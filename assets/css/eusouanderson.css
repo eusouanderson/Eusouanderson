@@ -4162,11 +4162,8 @@ a:hover {
 /* page navbar */
 
 .page-navbar {
-  font-size: 40%;
   z-index: 999;
   padding: 0px;
-  width: 100%;
-  text-align: center;
   top: 0;
   display: flex;
   height: 110px;

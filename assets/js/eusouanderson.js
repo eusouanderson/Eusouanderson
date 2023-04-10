@@ -33,15 +33,15 @@ var animeScroll = () => {
 
 //SKILL
 var skill = document.getElementById("skills");
-var skillCoordenadas = skill.getBoundingClientRect();
+//var skillCoordenadas = skill.getBoundingClientRect();
 //console.log(skillCoordenadas.height);
 //CERTIFICATE
 var certificate = document.getElementById("certificato");
-var certificateCoordenadas = certificate.getBoundingClientRect();
+//var certificateCoordenadas = certificate.getBoundingClientRect();
 //console.log(certificateCoordenadas.height);
 //CONTACT
 var cont = document.getElementById("contact");
-var contCoordenadas = cont.getBoundingClientRect();
+//var contCoordenadas = cont.getBoundingClientRect();
 //console.log(contCoordenadas.height);
 //SPACE
 var space = 800;
