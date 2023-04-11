@@ -34,22 +34,16 @@ var animeScroll = () => {
 }
 
 
-//NAVBAR
-
-
 //SKILL
 var skill = document.getElementById("skills");
 var skillCoordenadas = skill.getBoundingClientRect();
 var skillCor = 670;
-
-
 
 //CERTIFICATE
 var certificate = document.getElementById("certificato");
 var certificateCoordenadas = certificate.getBoundingClientRect();
 var certiCor= 1850
 //console.log(certificateCoordenadas.height);
-
 
 //WORK
 var wrk = document.getElementById("work");
@@ -162,8 +156,6 @@ animeScroll();
 test()
 //console.log(window.pageYOffset- altura)
 });
-
-
 
 
 //console.log(`Essa é a altura ${altura}`);
