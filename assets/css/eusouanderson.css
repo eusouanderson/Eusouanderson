@@ -120,7 +120,7 @@ h6, .h6 {
 }
 
 /* Dislpay */
-[data-display].display-1 {
+[data-display= "dis1"].display-1 {
   font-size: 6rem;
   font-weight: 300;
   line-height: 1.2;
@@ -169,42 +169,6 @@ mark,
   margin-right: 0.5rem;
 }
 
-code {
-  font-size: 87.5%;
-  color: #e83e8c;
-  word-break: break-word;
-}
-
-kbd {
-  padding: 0.2rem 0.4rem;
-  font-size: 87.5%;
-  color: #fff;
-  background-color: #212529;
-  border-radius: 0.2rem;
-}
-
-kbd kbd {
-  padding: 0;
-  font-size: 100%;
-  font-weight: 700;
-}
-
-pre {
-  display: block;
-  font-size: 87.5%;
-  color: #212529;
-}
-
-pre code {
-  font-size: inherit;
-  color: inherit;
-  word-break: normal;
-}
-
-.pre-scrollable {
-  max-height: 340px;
-  overflow-y: scroll;
-}
 
 .container {
   font-size: 15%;
@@ -216,11 +180,24 @@ pre code {
   .container {
     max-width: 540px;
   }
+  .page-navbar{
+    max-width: 540px;
+  }
+  .certificat{
+    font-size: large;
+  }
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
+  }
+  .page-navbar{
+    max-width: 720px;
+  }
+  
+  .certificat{
+    font-size: large;
   }
 }
 
@@ -228,11 +205,25 @@ pre code {
   .container {
     max-width: 960px;
   }
+  .page-navbar{
+    max-width: 960px;
+  }
+  
+  .certificat{
+    font-size: large;
+  }
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1140px;
+  }
+  .page-navbar{
+    max-width: 1140px;
+  }
+  
+  .certificat{
+    font-size: large;
   }
 }
 
@@ -4182,17 +4173,13 @@ a:hover {
 }
 .page-navbar .nav-navbar .nav-link {
   position: fixed;
-  text-align: left;
-  flex-grow: 1;
   color: #f8f9fa;
-  font-weight: bold;
   font-size: calc(12px + (15 - 12) * ((100vw - 300px) / (1300 - 300)));
 }
 
-
 .affix {
   width: 100%;
-  font-size: 40%;
+  font-size: calc(12px + (15 - 12) ((100vw - 300px) / (1300 - 300)));
   position: fixed;
   background: #212529;
   border-bottom: 1px solid rgba(173, 181, 189, 0.1);
@@ -4226,7 +4213,6 @@ a:hover {
   text-align: left;
   padding: 0 4px;
 }
-
 
 .footer .links a:first-child {
   margin-left: 0;
@@ -4277,24 +4263,16 @@ a:hover {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: -webkit-radial-gradient(48% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
+  background-image: -webkit-radial-gradient(48% 42%, 140% 110%, rgba(21, 22, 22, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
   
 }
 
 .header .header-content {
   position: absolute;
-  left: 50%;
+  left: 30%;
   top: 50%;
 }
-@keyframes flour {
-  0%{background-image: -webkit-radial-gradient(55% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
-  }
 
-  100%{background-image: -webkit-radial-gradient(10% 42%, 140% 110%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
-
-  }
-  
-}
 html,
 body {
   height: 100%;
@@ -4315,6 +4293,11 @@ body {
   font-size: 1.0em;
   transition: 0.5s;
 
+}
+.bt1:hover{
+
+  color: rgb(221, 221, 199);
+  
 }
 a:hover{
   border: 1px black;
@@ -4356,7 +4339,7 @@ a.bt1:hover::after{
 }
 
 .contact-section .overlay {
-  background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
+  background: linear-gradient(90deg, #205992 10%, rgba(122, 117, 80, 0) 50%, #212529 100%);
   height: auto;
   width: auto;
   background-image: -webkit-radial-gradient(48% 65%, 0% 130%, rgba(33, 37, 41, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.87), rgba(33, 37, 41, 0.99), #212529 55%, #212529 200%);

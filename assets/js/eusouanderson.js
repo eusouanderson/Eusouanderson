@@ -8,14 +8,14 @@ var altura = window.screen.height;
 
 var letraTamanho = window.document.getElementById("position-static")
 var test = () => {
-    var windowTop = window.pageYOffset + window.innerHeight * 0.75;
+    var windowTop = window.pageYOffset + window.innerHeight * 0.15;
     var larguraTela = largura;
     var alturaTela = altura;
     //console.log(`${larguraTela} x ${alturaTela}`)
 }
 
 var animeScroll = () => {
-    var windowTop = window.pageYOffset + window.innerHeight * 0.75;
+    var windowTop = window.pageYOffset + window.innerHeight * 0.95;
     //console.log(windowTop- 852)
     item.forEach(element =>{
         if (windowTop >= element.offsetTop){
