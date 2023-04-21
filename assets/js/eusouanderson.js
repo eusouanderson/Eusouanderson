@@ -14,7 +14,7 @@ var test = () => {
     var windowTop = window.pageYOffset;
     var larguraTela = largura;
     var alturaTela = altura;
-    console.log(windowTop)
+    //console.log(windowTop)
     //console.log(`${larguraTela} x ${alturaTela}`)
     //console.log( `Esse é a posição do Scroll ${windowTop}`);
     
@@ -55,7 +55,7 @@ var workCor = 3100
 var cont = document.getElementById("contact");
 var contCoordenadas = cont.getBoundingClientRect();
 var contCor = 3703
-console.log(contCor);
+//console.log(contCor);
 //vel
 var vel = 800;
 
