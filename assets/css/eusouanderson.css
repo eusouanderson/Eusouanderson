@@ -53,11 +53,13 @@ body{
   position: fixed;
   color: #fff;
 }
+
 .affix{
   background: linear-gradient(90deg, #323436 0%, rgba(60,52,0,0) 50%, #212529 100%);
-  padding: 50px;
+  padding: 10px;
   border-radius: 5%;
 }
+
 .left{
   display: flex;
   align-items: center;
