@@ -2,7 +2,7 @@
 
 //skills animate
 
-var item = document.querySelectorAll("[data-anime");
+var item = document.querySelectorAll("[data-anime]");
 var largura = window.screen.width;
 var altura = window.screen.height;
 
