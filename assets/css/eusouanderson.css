@@ -55,9 +55,13 @@ body{
 }
 
 .affix{
-  background: linear-gradient(90deg, #323436 0%, rgba(60,52,0,0) 50%, #212529 100%);
+  line-height: 8;
   padding: 10px;
-  border-radius: 5%;
+  border-radius: 10%;
+}
+.affix:hover{
+  background-color: #2b2f3352;
+  padding: auto;
 }
 
 .left{

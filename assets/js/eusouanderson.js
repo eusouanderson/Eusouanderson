@@ -47,13 +47,13 @@ var certiCor= 1850
 //WORK
 var wrk = document.getElementById("work");
 var wrkCoordenadas = wrk.getBoundingClientRect();
-var workCor = 3100
+var workCor = 3900
 //console.log(workCor)
 
 //CONTACT
 var cont = document.getElementById("contact");
 var contCoordenadas = cont.getBoundingClientRect();
-var contCor = 3703
+var contCor = 4703
 //console.log(contCor);
 //vel
 var vel = 800;
