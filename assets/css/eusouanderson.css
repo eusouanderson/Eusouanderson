@@ -524,7 +524,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: -webkit-radial-gradient(48% 42%, 140% 110%, rgba(21, 22, 22, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
+  background-image: -webkit-radial-gradient(48% 42%, 350% 110%, rgba(21, 22, 22, 0.5), rgba(33, 37, 41, 0.6), rgba(33, 37, 41, 0.7), rgba(33, 37, 41, 0.8), rgba(33, 37, 41, 0.93), #212529 55%, #212529 200%);
   
 }
 
@@ -611,31 +611,38 @@ body.dark-theme {
 }
 
 .link_certificado{
-  --flow-space: var(--size-700);
-  width: 90vw;
-  width: clamp(16rem, 90vw, 70rem);
+
+  line-height: 3.0;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+  word-spacing: 90%;
   color: var(--white);
-  background: rgb(0,0,0);
-  background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
+  background: linear-gradient(100deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
 
 }
 .link_certificado:hover{
-  color: rgb(139, 146, 115);
+  
+  position: static;
+  color: rgb(168, 133, 15);
+  background: white;
 
 }
+.certificat:hover{
+
+}
+
 .front{
   align-items: center;
-  padding: 0px;
+  padding: 1px;
+  margin-top: auto;
   background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
   background-color: #a0a0a7;
-  animation: color-back 1s 1s ;
+  animation: color-back 1s 1 2s ;
 }
 .front img{
-  width: 100%;
+  border-radius: 25%;
 }
 img{
   width: auto;

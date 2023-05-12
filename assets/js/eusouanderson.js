@@ -3,8 +3,7 @@
 //skills animate
 
 var item = document.querySelectorAll("[data-anime]");
-var largura = window.screen.width;
-var altura = window.screen.height;
+
 
 var letraTamanho = window.document.getElementById("position-static")
 var windowTop = window.pageYOffset;
@@ -59,8 +58,12 @@ var contCor = 3703
 //vel
 var vel = 800;
 
+var largura = window.screen.width;
+var altura = window.screen.height;
+
 //Mobile Functions///
 function About(){
+
     //resol 640x 1136
     if ((largura >= 540 && largura <= 640) && altura >= 1136){
         $('html, #about'). animate({ scrollTop: 0 }, vel);
@@ -76,7 +79,7 @@ function About(){
     //1125 x 2436
     if ((largura > 1080 && largura <= 1125) && altura >= 2436){
         $('html, #about'). animate({ scrollTop: 0}, vel);
-    }else{
+    }else {
         $('html, #about'). animate({ scrollTop: 0}, vel);
     }
 
