@@ -30,7 +30,7 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 *{
-    image-rendering: auto;
+    image-rendering: crisp-edges;
     width: auto;
     padding: 0;
 }
@@ -50,9 +50,10 @@ body{
     color: #fff;
 }
 .affix{
-    line-height: 8;
+    line-height: 5;
     padding: 10px;
     border-radius: 10%;
+    letter-spacing: 5px;
 }
 .affix:hover{
     background-color: #2b2f3352;
@@ -96,7 +97,7 @@ h6, .h6 {
 /*Animação da Pagina*/
 [data-anime]{
     opacity: 0;
-    transition: 1.0s;
+    transition: 1s;
 }
 [data-anime= "down"]{
     transform: translate3d(0, -100%, 0);
@@ -126,11 +127,14 @@ h6, .h6 {
     .page-navbar{
         max-width: 540px;
    }
-    .certificato{
+    #certificato{
         font-size: medium;
    }
-    .work{
-        font-size: xx-small;
+    #work{
+        font-size: medium;
+   }
+   #skills{
+    background-position: 50%;
    }
 }
 @media (min-width: 768px) {
@@ -140,11 +144,11 @@ h6, .h6 {
     .page-navbar{
         max-width: 720px;
    }
-    .certificato{
+    #certificato{
         font-size: small;
    }
-    .work{
-        font-size: xx-small;
+    #work{
+        font-size: small;
    }
 }
 @media (min-width: 992px) {
@@ -154,11 +158,11 @@ h6, .h6 {
     .page-navbar{
         max-width: 960px;
    }
-    .certificato{
+    #certificato{
         font-size: smaller;
    }
-    .work{
-        font-size: xx-small;
+    #work{
+        font-size: smaller;
    }
 }
 @media (min-width: 1200px) {
@@ -168,11 +172,11 @@ h6, .h6 {
     .page-navbar{
         max-width: 1140px;
    }
-    .certificato{
+    #certificato{
         font-size: x-small;
    }
-    .work{
-        font-size: xx-small;
+    #work{
+        font-size: x-small;
    }
 }
 .container-fluid {
@@ -541,19 +545,22 @@ body.dark-theme {
 }
 .certificat:hover{
 }
+
 .front{
     align-items: center;
     padding: 1px;
     margin-top: auto;
     background: linear-gradient(90deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
     background-color: #a0a0a7;
-    height: auto;
-    animation: color-back 1s 1 2s ;
+    height: 100px;
+}
+    .front:hover{
+    animation: color-back 1s 1;
+    
 }
 .front img{
-    border-radius: 50%;
-    padding-top: 5px;
-    padding-bottom: 10px;
+    border-radius: 5% 5%;
+    padding: auto;
 }
 
 /* Work */
