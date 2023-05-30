@@ -120,6 +120,106 @@ h6, .h6 {
     margin-right: 10%;
     margin-left: 10%;
 }
+/*Arrumando */
+@media (min-width: 280px) {
+    .container {
+        max-width: 350px;
+   }
+    .page-navbar{
+        max-width: 1px;
+        padding: 0px;
+   }
+    #certificato{
+        font-size: small;
+   }
+    #work{
+        font-size: xx-small;
+   }
+   #skills{
+        image-orientation: flip;
+   }
+   #contact{
+        max-width: 540px;
+   }
+   .front img{
+    width: 1px;
+   }
+}
+@media (min-width: 360px) {
+    .container {
+        max-width: 350px;
+   }
+    .page-navbar{
+        max-width: 1px;
+        padding: 0px;
+   }
+    #certificato{
+        font-size: small;
+   }
+    #work{
+        font-size: xx-small;
+   }
+   #skills{
+        image-orientation: flip;
+   }
+   #contact{
+        max-width: 540px;
+   }
+   .front img{
+    height: 500%;
+    width: 15px;
+   }
+}
+@media (min-width: 375px) {
+    .container {
+        max-width: 350px;
+   }
+    .page-navbar{
+        max-width: 1px;
+        padding: 0px;
+   }
+    #certificato{
+        font-size: small;
+   }
+    #work{
+        font-size: xx-small;
+   }
+   #skills{
+        image-orientation: flip;
+   }
+   #contact{
+        max-width: 540px;
+   }
+   .front img{
+    height: 50%;
+    width: 20px;
+   }
+}
+@media (min-width: 540px) {
+    .container {
+        max-width: 540px;
+   }
+    .page-navbar{
+        max-width: 60px;
+   }
+    #certificato{
+        font-size: small;
+   }
+    #work{
+        font-size: xx-small;
+   }
+   #skills{
+        image-orientation: flip;
+   }
+   #contact{
+        max-width: 540px;
+   }
+   .front img{
+    height: 35%;
+    width: 30px;
+   }
+}
+
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -182,6 +282,24 @@ h6, .h6 {
         max-width: auto;
 }
 }
+@media (min-width: 1024px) {
+    .container {
+        max-width: 900px;
+   }
+    .page-navbar{
+        max-width: 1000px;
+   }
+    #certificato{
+        font-size: x-small;
+   }
+    #work{
+        font-size: x-small;
+   }
+   #contact{
+        max-width: 1000px;
+}
+}
+
 @media (min-width: 1200px) {
     .container {
         max-width: 1140px;
