@@ -125,13 +125,13 @@ h6, .h6 {
         max-width: 540px;
    }
     .page-navbar{
-        max-width: 540px;
+        max-width: 60px;
    }
     #certificato{
         font-size: medium;
    }
     #work{
-        font-size: medium;
+        font-size: xx-small;
    }
    #skills{
         image-orientation: flip;
@@ -139,13 +139,17 @@ h6, .h6 {
    #contact{
         max-width: 540px;
    }
+   .front img{
+    height: 35%;
+    width: 50px;
+   }
 }
 @media (min-width: 768px) {
     .container {
         max-width: 720px;
    }
     .page-navbar{
-        max-width: 720px;
+        max-width: 55px;
    }
     #certificato{
         font-size: small;
@@ -155,14 +159,18 @@ h6, .h6 {
    }
    #contact{
         max-width: 720px;
-}
+   }
+    .front img{
+    height: 55px;
+
+   }
 }
 @media (min-width: 992px) {
     .container {
-        max-width: 960px;
+        max-width: 990px;
    }
     .page-navbar{
-        max-width: 960px;
+        max-width: 10px;
    }
     #certificato{
         font-size: smaller;
@@ -171,7 +179,7 @@ h6, .h6 {
         font-size: smaller;
    }
    #contact{
-        max-width: 540px;
+        max-width: auto;
 }
 }
 @media (min-width: 1200px) {
