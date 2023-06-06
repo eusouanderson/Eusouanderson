@@ -1,12 +1,48 @@
 ~~~
+  "A persistência é o caminho para o sucesso. O talento sem esforço é apenas potencial desperdiçado."
+~~~
 
-"Nothing in this world beats good old persistence. Talent does not surpass. 
-Nothing more common than talented failures. 
-Genius does not overcome. Unrecognized geniusesis practically a cliche. 
-Education does not exceed. The world is full of educated Genius. 
-Persistence and determination alone are powerful."
+~~~
+  "Nada pode substituir a persistência. Nem talento, nem gênio, nem educação. É a persistência que alcança o inalcançável."
+~~~~
 
 ~~~~
+  "Os fracassos são apenas degraus para o sucesso. A persistência é o que nos faz subir cada degrau."
+~~~~
+
+~~~~
+  "A persistência é a diferença entre aqueles que desistem e aqueles que alcançam seus objetivos."
+~~~~
+~~~~
+  "Não importa quão talentoso você seja, é a determinação que determina o quão longe você chegará."
+~~~~
+~~~~
+  "A persistência é a coragem de continuar, mesmo quando tudo parece impossível."
+~~~~
+
+~~~~
+  "A determinação é a chave que abre as portas do impossível. Não desista, persista."
+~~~~
+~~~~
+  "A determinação é a chave que abre as portas do impossível. Não desista, persista."
+~~~~
+
+~~~~
+  "O sucesso não vem da sorte, mas da persistência incansável em buscar o que se deseja."
+~~~~
+
+~~~~
+  "A determinação é o combustível que alimenta a jornada rumo ao sucesso. Mantenha o foco e persista."
+~~~~
+
+~~~~
+  "A persistência é a arma secreta dos vencedores. Não desista, persista até alcançar seus sonhos."
+~~~~
+
+~~~~
+  "A determinação é a chave que abre as portas do impossível. Não desista, persista."
+~~~~
+
 
  
 # Hi my name is Anderson I'm a programming and robotics lover 🚀
