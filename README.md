@@ -1,3 +1,7 @@
+<details>
+  <summary>Frases de Motivação</summary>
+  
+  
 ~~~
   "A persistência é o caminho para o sucesso. O talento sem esforço é apenas potencial desperdiçado."
 ~~~
@@ -49,7 +53,7 @@
   
 
 ##  I’m currently learning Python 
-
+</details>
 
 <!--
 **eusouanderson/eusouanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
