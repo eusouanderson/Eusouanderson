@@ -727,11 +727,18 @@ body.dark-theme {
 }
 .item-de-trabalho:hover {
     box-shadow: 0 40px 80px rgba(228, 224, 224, 0.2);
+    
 }
 .item-de-trabalho img {
     position: static;
     max-width: 98%;
     margin: auto;
+}
+.item-de-trabalho img:hover{
+    border-radius: 5px;
+    width: 500px;
+    height: 200px;
+    
 }
 .item-de-trabalho h3 {
     margin-top: 10;
