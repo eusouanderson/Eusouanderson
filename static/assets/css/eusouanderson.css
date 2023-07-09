@@ -689,6 +689,16 @@ html, body {
 body.dark-theme {
     background: #212529;
 }
+#quemsoueu{
+    line-height: 3.0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    word-spacing: 90%;
+    color: var(--white);
+    background: linear-gradient(100deg, #212529 0%, rgba(60,52,0,0) 50%, #212529 100%);
+}
 .link_certificado{
     line-height: 3.0;
     margin-left: auto;
