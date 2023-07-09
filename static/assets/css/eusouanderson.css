@@ -837,3 +837,6 @@ body.dark-theme {
     filter: blur(50px);
     box-shadow: 0 0 120px #a0a0a7, 0 0 200px rgbargb(160,160,167, 8), 0 0 200px rgbargb(160,160,167, 9), 0 0 300px rgbargb(160,160,167, 10), 0 0 400px rgbargb(160,160,167, 11);
 }
+a:hover {
+    text-decoration: underline;
+}
