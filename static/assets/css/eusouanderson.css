@@ -115,6 +115,22 @@ h6, .h6 {
     opacity: 1;
     transform: translate3d(0, 0, 0);
 }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
 /*Container*/
 .container {
     margin-right: 10%;
@@ -528,6 +544,13 @@ p {
     background-color: rgba(102, 176, 255, 0.7);
 }
 /* Start */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
 .footer .infos {
     text-align: right;
     color: #fff;
