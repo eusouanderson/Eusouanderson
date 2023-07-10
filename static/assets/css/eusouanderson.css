@@ -139,10 +139,10 @@ nav ul {
 /*Arrumando */
 @media (min-width: 280px) {
     .container {
-        max-width: 350px;
+        max-width: 150px;
    }
     .page-navbar{
-        max-width: 1px;
+        max-width: 0px;
         padding: 0px;
    }
     #certificato{
@@ -158,7 +158,7 @@ nav ul {
         max-width: 540px;
    }
    .front img{
-    width: 1px;
+    width: 20px;
    }
 }
 @media (min-width: 360px) {
@@ -644,8 +644,8 @@ html, body {
 .bt1:hover{
     color: rgb(221, 221, 199);
 }
-.page-navbar a:hover{
-    border: 1px black;
+.page-navbar:hover{
+    border: 100px black;
 }
 .page-navbar a::before{
     content: '';
@@ -670,6 +670,9 @@ html, body {
 .page-navbar a.bt1:hover::after{
     inset: 1px 8px;
     transform: skewX(15deg);
+}
+.page-navbar.se{
+    display: none;
 }
 /* Conatct section */
 .contact-section {
