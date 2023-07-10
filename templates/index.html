@@ -6,7 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="author" content="Anderson B.O.B">
    <meta name="description" content="Author: Anderson B.O.B Author">
-   <link rel="icon" type="image/x-icon" href="assets/imgs/favicon.ico">
+   <link rel="icon" type="image/x-icon" href="../static/assets/imgs/favicon.ico">
    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/dashboard/">
    <link rel="stylesheet" type="text/css" href="../static/assets/css/eusouanderson.css">
    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -22,12 +22,12 @@
 
          <div class="affix" aligne="center" data-anime="rigth">
             <ul>
-               <li><a href="#about" class="bt1" onclick="About()">About </a></li>
-               <li><a href="#skills" class="bt1" onclick="Skills()">Skills </a></li>
-               <li><a href="#certificate" class="bt1" onclick="Certificates()">Certificates</a></li>
-               <li><a href="#work" class="bt1" onclick="Work()">Work </a></li>
-               <li><a href="#contact" class="bt1" onclick="Contact()">Contact </a></li>
-               <li><img src="assets/imgs/favicon.ico" alt="Anderson" width="35" height="30"></li>
+               <li><a href="#about" class="bt1" id="button_1">About</a></li>
+               <li><a href="#skills" class="bt1" id="button_2">Skills</a></li>
+               <li><a href="#certificate" class="bt1" id="button_3">Certificates</a></li>
+               <li><a href="#work" class="bt1" id="button_4">Works</a></li>
+               <li><a href="#contact" class="bt1" id="button_5">Contact</a></li>
+               <li><img  alt="Anderson" width="35" height="30"></li>
             </ul>
          </div>
       </nav>
@@ -350,14 +350,14 @@
          </div>
          <div class="item-de-trabalho">
             <a href="https://github.com/eusouanderson/limao" target="_blank">
-            <img src="assets/imgs/img3.png" alt="Imagem 2" style="height: 200px;">
+            <img src="../static/assets/imgs/img3.png" alt="Imagem 2" style="height: 200px;">
             <h3>Lemon</h3>
             <p>Merchant Inventory Control</p>
             </a>
          </div>
          <div class="item-de-trabalho">
             <a href="https://github.com/eusouanderson/game-robot" target="_blank">
-            <img src="assets/imgs/img4.png" alt="Imagem 2" style="height: 200px;">
+            <img src="../static/assets/imgs/img4.png" alt="Imagem 2" style="height: 200px;">
             <h3>Game Robt</h3>
             <p>Welcome to the world of Game Robt, an exciting 2D game that will challenge your skills and strategies.</p>
             </a>
@@ -403,7 +403,8 @@
       </div>
       </footer>
       <!-- eusouanderson js -->
-      <script src="../static/assets/js/eusouanderson.js"></script>
+      <script src="../static/assets/js/eusouanderson.js">
+      </script>
    </section>
    <br/>
 </body>

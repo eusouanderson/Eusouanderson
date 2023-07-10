@@ -62,14 +62,14 @@ var largura = window.screen.width;
 var altura = window.screen.height;
 
 //Mobile Functions///
-function About(){
+/*function About(){
 
     //resol 640x 1136
     if ((largura >= 540 && largura <= 640) && altura >= 1136){
         $('html, #about'). animate({ scrollTop: 0 }, vel);
     } 
     //750 x 1334 
-    if ((largura > 640 && largura <= 750) && altura >= 1334){
+    if ((largura > 640 && largura <= 750) && altura >= 4000){
         $('html, #about'). animate({ scrollTop: 0}, vel);
     }
     //1080 x 1920
@@ -153,12 +153,13 @@ function Contact(){
         $('html, contact'). animate({ scrollTop: contCor}, vel);
     }
 }
-
+*/
 window.addEventListener("scroll", ()=>{
 animeScroll();
 test()
 //console.log(window.pageYOffset- altura)
 });
+
 
 
 //console.log(`Essa é a altura ${altura}`);
@@ -170,3 +171,42 @@ var skills = window.document.getElementById("skills");
 var element = document.getElementById('navbarone');
 
 //pagebar.style.background.width = '130%';
+function scrollToElement(elementId) {
+    var element = document.getElementById(elementId);
+    if (element) {
+      var offsetTop = element.offsetTop;
+      window.scrollTo({
+        top: offsetTop,
+        behavior: 'smooth'
+      });
+    }
+  }
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    var button1 = document.getElementById('button_1');
+    var button2 = document.getElementById('button_2');
+    var button3 = document.getElementById('button_3');
+    var button4 = document.getElementById('button_4');
+    var button5 = document.getElementById('button_5');
+  
+    button1.addEventListener('click', function() {
+      scrollToElement('quemsoueu');
+    });
+  
+    button2.addEventListener('click', function() {
+      scrollToElement('slills');
+    });
+  
+    button3.addEventListener('click', function() {
+      scrollToElement('certificato');
+    });
+  
+    button4.addEventListener('click', function() {
+      scrollToElement('work');
+    });
+  
+    button5.addEventListener('click', function() {
+      scrollToElement('contact');
+    });
+});
+  
