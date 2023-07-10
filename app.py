@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, make_response
 
 debug=True
 
@@ -6,6 +6,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def start():
+    response = make_response('')
+    response.set_cookie('cookie_name', 'cookie_value', samesite='None', secure=True)
     return render_template('index.html')
 
 @app.errorhandler(404)  
