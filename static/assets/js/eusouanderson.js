@@ -38,7 +38,7 @@ var skill = document.getElementById("skills");
 var skillCoordenadas = skill.getBoundingClientRect();
 var skillCor = 670;
 
-//CERTIFICATE
+//CERTIFICATE2
 var certificate = document.getElementById("certificato");
 var certificateCoordenadas = certificate.getBoundingClientRect();
 var certiCor= 1850
