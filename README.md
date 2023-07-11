@@ -13,30 +13,7 @@
 ##  I’m currently learning Python 
 </details>
 
-<!--
-**eusouanderson/eusouanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div class="header-subtitle" align="center">
-            <table><tbody><tr><td>
-                <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson"></td><td>
-                <img  src="https://99prod.s3.amazonaws.com/uploads/170cf8db-78b6-4ff4-bf96-2addd1ef5291/2.png">
-                <p>Carrer Builder</p> 
-                <img  src="https://99prod.s3.amazonaws.com/uploads/9f812100-ea5f-49cf-afd2-e69160b6223b/3.png">
-                <p> Social Impact</p>
-            </td></tr></tbody></table>
-            
-  
+ 
 # My Skill Set  
 ~~~~
 Click on the image for more information
@@ -72,6 +49,8 @@ Click on the image for more information
 
 <div class="front" align="center" >
   <table><td>
+    <a href="https://python-poetry.org/" target="_blank"><img style="margin: 10px" src="https://python-poetry.org/images/logo-origami.svg" alt="Bash" height="35" /></a>
+    <a href="https://mamba.readthedocs.io/" target="_blank"><img style="margin: 5px" src=https://mamba.readthedocs.io/en/latest/_static/logo.png height="50" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" /></a>
     <a href="https://octave.org/" target="_blank"><img style="margin:10px" src= "https://octave.org/img/octave-logo.svg" alt="GNU OCTAVE" height="35" /></a>
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="35" /></a>
