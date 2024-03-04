@@ -1,5 +1,7 @@
 from flask import Flask, render_template, make_response
 from datetime import date
+from functools import lru_cache
+
 
 debug=True
 
@@ -8,10 +10,16 @@ date = f"{date.today()} "
 
 
 @app.route('/')
+@lru_cache(maxsize=None)
 def start():
     response = make_response('')
     response.set_cookie('cookie_name', 'cookie_value', domain='eusouanderson.onrender.com')
     return render_template('index.html' , date = date)
+   
+@app.route('/projects')
+def projects():
+	
+	return render_template('projectss.html')
 
 @app.errorhandler(404)  
 def page_not_found(error):
