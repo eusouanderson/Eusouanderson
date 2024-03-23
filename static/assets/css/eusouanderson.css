@@ -14,7 +14,6 @@
     --gray: #6c757d;
     --gray-dark: #343a40;
     --primary: #007bff;
-    --secondary: #6c757d;
     --success: #28a745;
     --info: #17a2b8;
     --warning: #ffc107;
@@ -692,36 +691,58 @@ html, body {
 body.dark-theme {
     background: #212529;
 }
-#quemsoueu{
-    line-height: 3.0;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    word-spacing: 90%;
+#quemsoueu {
+    line-height: 1.6;
+    margin: 0 auto;
+    padding: 0 1rem;
     color: var(--white);
-    display: inline-block;
     font-size: 20px;
     overflow: hidden;
-    transition: font-size 0.3s;
-}
-#quemsoueu:hover{
-    font-size: 110px;;
 }
 
-#quemsoueu span {
-    display: inline-block;
-    animation: zoom 0.3s infinite alternate;
+#quemsoueu:hover h4 {
+    animation: textHover 0.5s infinite alternate;
 }
 
-@keyframes zoom {
-    from {
-      font-size: 20px;
+@keyframes textHover {
+    0% {
+        font-size: 20px;
     }
-    to {
-      font-size: 30px;
+    100% {
+        font-size: 60px;
     }
 }
+
+#quemsoueu h4[data-anime="rigth"] {
+    animation: slideRight 1s ease-out forwards;
+}
+
+#quemsoueu h4[data-anime="left"] {
+    animation: slideLeft 1s ease-out forwards;
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideLeft {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
 
 
 .link_certificado{
@@ -739,8 +760,7 @@ body.dark-theme {
     color: rgb(168, 133, 15);
     background: white;
 }
-.certificat:hover{
-}
+
 
 .front{
     align-items: center;
