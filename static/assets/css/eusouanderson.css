@@ -207,7 +207,7 @@ nav ul {
    }
    .front img{
     height: 50%;
-    width: 20px;
+    width: 25px;
    }
 }
 @media (min-width: 540px) {
@@ -782,7 +782,7 @@ body.dark-theme {
 /* Work */
 .area-de-trabalhos {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     padding-top: 50px;
@@ -795,6 +795,9 @@ body.dark-theme {
     box-shadow: 0 2px 50px rgba(0,0,0,.3);
 }
 .item-de-trabalho {
+    
+    display: flex;
+    align-items: center;
     flex-basis: calc(40%);
     margin-bottom: 20px;
     padding: 10px;
