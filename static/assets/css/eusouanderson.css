@@ -1020,16 +1020,11 @@ body.dark-theme {
 }
 
 
-.item-de-trabalho:hover {
-    line-height: 3.0;
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 1.5rem;
-        padding-right: 1.5rem;
-        word-spacing: 90%;
-        color: var(--white);
-        background: linear-gradient(100deg, #212529 0%, rgba(60, 52, 0, 0) 50%, #212529 100%);
-    }
+.item-de-trabalho:hover a:hover, .item-de-trabalho h3:hover {
+    position: static;
+    color: rgb(168, 133, 15);
+    box-shadow: 0 40px 80px rgba(228, 224, 224, 0.2);
+}
 
 
 
@@ -1046,13 +1041,7 @@ body.dark-theme {
 
 }
 
-.item-de-trabalho h3 {
-    margin-top: 10;
-    
-}
-.item-de-trabalho h3:hover {
-    color: rgb(168, 133, 15);
-}
+
 
 
 @keyframes color-back {
