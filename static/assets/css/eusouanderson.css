@@ -148,7 +148,7 @@ h6,
 /*Animação da Pagina*/
 [data-anime] {
     opacity: 0;
-    transition: opacity 8s ease, transform 5s ease;
+    transition: opacity 8s ease, transform 2s ease;
 }
 
 [data-anime="down"] {

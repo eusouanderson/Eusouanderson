@@ -1,7 +1,9 @@
 from flask import Flask, render_template, make_response
 from datetime import date
 from functools import lru_cache
+from joblib import Memory
 
+memory = Memory('./cache', verbose=0)
 
 debug=True
 
@@ -11,6 +13,7 @@ date = f"{date.today()} "
 
 @app.route('/')
 @lru_cache(maxsize=None)
+@memory.cache
 def start():
     response = make_response('')
     response.set_cookie('cookie_name', 'cookie_value', domain='eusouanderson.onrender.com')
