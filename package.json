@@ -1,0 +1,16 @@
+{
+  "name": "eusouanderson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build-critical": "critical --inline --base=/templates --src=index.html --target=templates/index-critical.html --width=1300 --height=900"
+  },
+  "dependencies": {
+    "fancy-log": "^2.0.0",
+    "gulp": "^5.0.0"
+  },
+  "devDependencies": {
+    "critical": "^4.0.0"
+  }
+}
