@@ -1,4 +1,4 @@
-# 👋 Olá, Eu Sou Anderson Rodrigues mais conhecido como B.O.B! 🚀
+# 👋 Olá, Eu Sou Anderson Rodrigues! 🚀
 
 Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend apaixonado por tecnologia, sempre explorando novas ferramentas e soluções criativas.
 
@@ -7,7 +7,7 @@ Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend apaixonado por
 - 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos** e **aplicações web**.
 - 🌱 Estou aprimorando minhas habilidades em **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
 - 🎓 Estudante na **Estácio de Sá University**, com foco em projetos de IoT e desenvolvimento de software.
-- 💬 Me pergunte sobre **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria** e **desenvolvimento de mods**.
+- 💬 Me pergunte sobre **Electron.js**, **Python**, **Criação de Api´s Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria** e **desenvolvimento de mods**.
 - 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 😄 Pronomes: Ele/Dele
 
@@ -40,7 +40,7 @@ Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
   - **Node.js**: Backend robusto e escalável.
   - **Flask** e **Django**: Frameworks para desenvolvimento web com Python.
   - **NW.js**: Para criar aplicações desktop a partir de projetos web.
-- **Bases de Dados**: MongoDB, SQL
+- **Bases de Dados**: MongoDB, SQL, Oracle, MySQL, PostgreSql, Redis, SQLite.
 - **Outros**: Telemetria de Jogos, APIs REST, Desenvolvimento de Mods
 
 ## 📈 Estatísticas do GitHub
@@ -50,7 +50,7 @@ Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
 
 ## 🌐 Onde Me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/anderson-rodrigues-24003823b/)
 - [GitHub](https://github.com/eusouanderson)
 - [Twitter](https://twitter.com/seu-twitter)
 
