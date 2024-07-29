@@ -23,7 +23,7 @@ Mods personalizados para ETS2, incluindo:
 - [Kenworth K100 Mod](https://github.com/eusouanderson/Kenworth-K100-ETS2)
 
 ### 📊 [Telemetria em Tempo Real](https://github.com/eusouanderson/RealTimeTelemetry)
-Aplicação para exibir dados de telemetria de jogos em tempo real usando **Flask** e **React**.
+Aplicação para exibir dados de telemetria de jogos em tempo real usando **C#** e **React**.
 
 ### 🌐 [Auction App](https://github.com/eusouanderson/auction-app)
 Aplicação de leilões online com suporte a imagens, desenvolvida com **React**, **Node.js**, e **MongoDB**.
