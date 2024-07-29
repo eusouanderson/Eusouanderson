@@ -12,3 +12,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eusouanderson&show_icons=true&theme=radical)
