@@ -1,4 +1,4 @@
-# 👋 Olá, Eu Sou Anderson Rodrigues! 🚀
+# 👋 Olá, Eu Sou Anderson Rodrigues mais conhecido como B.O.B! 🚀
 
 Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend apaixonado por tecnologia, sempre explorando novas ferramentas e soluções criativas.
 
