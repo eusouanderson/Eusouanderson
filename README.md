@@ -56,4 +56,4 @@ Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
 
 ---
 
-Feito com ❤️ por Anderson Rodrigues
+
