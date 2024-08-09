@@ -1,13 +1,13 @@
-# 👋 Olá, Eu Sou Anderson Rodrigues! 🚀
+# 👋 Olá, Eu Sou Anderson Rodrigues! 🚗🚀
 
-Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend apaixonado por tecnologia, sempre explorando novas ferramentas e soluções criativas.
+Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend especializado no ramo automotivo, criando APIs robustas para catálogos de peças e desenvolvendo soluções inovadoras para a indústria automotiva.
 
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos** e **aplicações web**.
+- 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos**, **aplicações web** e **soluções automotivas**.
 - 🌱 Estou aprimorando minhas habilidades em **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
 - 🎓 Estudante na **Estácio de Sá University**, com foco em projetos de IoT e desenvolvimento de software.
-- 💬 Me pergunte sobre **Electron.js**, **Python**, **Criação de Api´s Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria** e **desenvolvimento de mods**.
+- 💬 Me pergunte sobre **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
 - 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 😄 Pronomes: Ele/Dele
 
@@ -31,6 +31,9 @@ Aplicação de leilões online com suporte a imagens, desenvolvida com **React**
 ### 🛠️ [AntCheating ETS2 Server](https://github.com/eusouanderson/AntCheating-ETS2-Server)
 Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
 
+### 🚗 Catálogo de Peças Automotivas
+API robusta para catálogos de peças automotivas, desenvolvida com **Python** e **MongoDB**, facilitando a integração e a consulta de dados em sistemas automotivos.
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens**: Python, JavaScript, TypeScript, C, C#
@@ -41,7 +44,7 @@ Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
   - **Flask** e **Django**: Frameworks para desenvolvimento web com Python.
   - **NW.js**: Para criar aplicações desktop a partir de projetos web.
 - **Bases de Dados**: MongoDB, SQL, Oracle, MySQL, PostgreSql, Redis, SQLite.
-- **Outros**: Telemetria de Jogos, APIs REST, Desenvolvimento de Mods
+- **Outros**: Telemetria de Jogos, APIs REST, Desenvolvimento de Mods, Soluções Automotivas
 
 ## 📈 Estatísticas do GitHub
 
@@ -55,5 +58,3 @@ Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
 - [Twitter](https://twitter.com/seu-twitter)
 
 ---
-
-
