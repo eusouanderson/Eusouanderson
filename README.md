@@ -1,13 +1,14 @@
 # 👋 Olá, Eu Sou Anderson Rodrigues! 🚗🚀
 
-Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend especializado no ramo automotivo, criando APIs robustas para catálogos de peças e desenvolvendo soluções inovadoras para a indústria automotiva.
+Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor backend especializado na criação de APIs robustas e soluções inovadoras para a indústria automotiva e de jogos.
 
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos**, **aplicações web** e **soluções automotivas**.
-- 🌱 Estou aprimorando minhas habilidades em **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
+- 🌱 Estou aprimorando minhas habilidades em **FastAPI**, **Uvicorn**, **Pydantic**, **Poetry**, **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
+- 🏢 CEO do projeto de apostas online **Apostou Ganhou+!**
 - 🎓 Estudante na **Estácio de Sá University**, com foco em projetos de IoT e desenvolvimento de software.
-- 💬 Me pergunte sobre **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
+- 💬 Me pergunte sobre **FastAPI**, **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
 - 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 😄 Pronomes: Ele/Dele
 
@@ -38,12 +39,15 @@ API robusta para catálogos de peças automotivas, desenvolvida com **Python** e
 
 - **Linguagens**: Python, JavaScript, TypeScript, C, C#
 - **Frameworks e Ferramentas**: 
+  - **FastAPI** e **Uvicorn**: Desenvolvimento rápido e eficiente de APIs.
+  - **Pydantic**: Validação de dados e modelagem para Python.
+  - **Poetry**: Gerenciamento de dependências e ambientes Python.
   - **Electron.js**: Desenvolvimento de aplicações desktop.
   - **React**: Interface interativa e reativa.
   - **Node.js**: Backend robusto e escalável.
   - **Flask** e **Django**: Frameworks para desenvolvimento web com Python.
   - **NW.js**: Para criar aplicações desktop a partir de projetos web.
-- **Bases de Dados**: MongoDB, SQL, Oracle, MySQL, PostgreSql, Redis, SQLite.
+- **Bases de Dados**: MongoDB, SQL, Oracle, MySQL, PostgreSQL, Redis, SQLite.
 - **Outros**: Telemetria de Jogos, APIs REST, Desenvolvimento de Mods, Soluções Automotivas
 
 ## 📈 Estatísticas do GitHub
@@ -56,5 +60,3 @@ API robusta para catálogos de peças automotivas, desenvolvida com **Python** e
 - [LinkedIn](https://www.linkedin.com/in/anderson-rodrigues-24003823b/)
 - [GitHub](https://github.com/eusouanderson)
 - [Twitter](https://twitter.com/seu-twitter)
-
----
