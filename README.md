@@ -52,7 +52,7 @@ API robusta para catálogos de peças automotivas, desenvolvida com **Python** e
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Anderson](https://github-readme-stats.vercel.app/api?username=eusouanderson&show_icons=true&theme=dark)
+
 ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=dark)
 
 ## 🌐 Onde Me Encontrar
