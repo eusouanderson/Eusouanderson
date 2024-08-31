@@ -29,7 +29,7 @@ Aplicação para exibir dados de telemetria de jogos em tempo real usando **C#**
 ### 🌐 [Auction App](https://github.com/eusouanderson/auction-app)
 Aplicação de leilões online com suporte a imagens, desenvolvida com **React**, **Node.js**, e **MongoDB**.
 
-### 🛠️ [AntCheating ETS2 Server](https://github.com/eusouanderson/AntCheating-ETS2-Server)
+### 🛠️ [AntCheating ETS2 Server](https://github.com/eusouanderson/AntCheating-ETS2-)
 Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
 
 ### 🚗 Catálogo de Peças Automotivas
