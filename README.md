@@ -1,12 +1,12 @@
 # 👋 Olá, Eu Sou Anderson Rodrigues! 🚗🚀
-Desenvolvedor backend especializado em APIs robustas e soluções inovadoras para a indústria automotiva e de jogos.
+Desenvolvedor Fullstack especializado em APIs robustas e soluções inovadoras para a indústria automotiva e de jogos.
 
 ## 👨‍💻 Sobre Mim
 Apaixonado por tecnologias inovadoras, busco constantemente aprimorar minhas habilidades em desenvolvimento backend e telemetria de jogos. Atualmente, estou explorando novas maneiras de integrar IoT com aplicações automotivas.
 
 - 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos**, **aplicações web** e **soluções automotivas**.
 - 🌱 Estou aprimorando minhas habilidades em **FastAPI**, **Uvicorn**, **Pydantic**, **Poetry**, **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
-- 🏢 CEO do projeto de apostas online **Apostou Ganhou+!**
+- 🏢 CEO do projeto de apostas online **Success Bet**: [succes bet](https://apostouganhou.vercel.app/)
 - 🎓 Estudante na **Estácio de Sá University**, com foco em projetos de IoT e desenvolvimento de software.
 - 💬 Me pergunte sobre **FastAPI**, **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
 - 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
