@@ -7,7 +7,7 @@ Apaixonado por tecnologias inovadoras, busco constantemente aprimorar minhas hab
 - 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos**, **aplicações web** e **soluções automotivas**.
 - 🌱 Estou aprimorando minhas habilidades em **FastAPI**, **Uvicorn**, **Pydantic**, **Poetry**, **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
 - 🏢 CEO do projeto de apostas online **Success Bet**: [succes bet](https://apostouganhou.vercel.app/)
-- 🎓 Estudante na **Estácio de Sá University**, com foco em projetos de IoT e desenvolvimento de software.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
 - 💬 Me pergunte sobre **FastAPI**, **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
 - 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 😄 Pronomes: Ele/Dele
