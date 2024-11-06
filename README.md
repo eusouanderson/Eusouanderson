@@ -37,6 +37,11 @@
 ### 🚗 **Automotive Parts Catalog**
 - Robust API for automotive parts catalog, developed with **Python** and **MongoDB**, streamlining data integration and querying in automotive systems.
 
+### 🌳 **Environmental Awareness Project**
+- **[Ark Tree](https://github.com/eusouanderson/ark_tree)**: An interactive 3D experience built with **Vue.js** and **Three.js**, focusing on the importance of environmental preservation and our role in protecting the planet.
+  **Technologies**: **Vue.js**, **Three.js**, **CSS**, **WebGL**
+  - **Live Demo**: [ark-tree.vercel.app](https://ark-tree.vercel.app/)
+
 ---
 
 ## 🛠️ **Technologies & Tools**
