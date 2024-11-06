@@ -1,39 +1,45 @@
-# 👋 Olá, Eu Sou Anderson Rodrigues! 🚗🚀
-Desenvolvedor Fullstack especializado em APIs robustas e soluções inovadoras para a indústria automotiva e de jogos.
+# 👋 **Hello, I’m Anderson Rodrigues!** 🚗🚀
+**Fullstack Developer** specializing in robust APIs and innovative solutions for the automotive and gaming industries.
 
-## 👨‍💻 Sobre Mim
-Apaixonado por tecnologias inovadoras, busco constantemente aprimorar minhas habilidades em desenvolvimento backend e telemetria de jogos. Atualmente, estou explorando novas maneiras de integrar IoT com aplicações automotivas.
+---
 
-- 🔭 Atualmente estou trabalhando em projetos de **IoT**, **telemetria de jogos**, **aplicações web** e **soluções automotivas**.
-- 🌱 Estou aprimorando minhas habilidades em **FastAPI**, **Uvicorn**, **Pydantic**, **Poetry**, **Electron.js**, **TypeScript**, **Node.js**, e **Python**.
-- 🏢 CEO do projeto de apostas online **Success Bet**: [succes bet](https://apostouganhou.vercel.app/)
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
-- 💬 Me pergunte sobre **FastAPI**, **Electron.js**, **Python**, **Criação de APIs Rest**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **desenvolvimento backend**, **telemetria**, **desenvolvimento de mods** e **soluções para o ramo automotivo**.
-- 📫 Como me encontrar: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
-- 😄 Pronomes: Ele/Dele
+## 🖥️ **About Me**
+💚 Passionate about cutting-edge technologies, I constantly seek to enhance my skills in backend development and game telemetry. Currently, I’m exploring new ways to integrate **IoT** with automotive applications.
 
-## 🚀 Projetos em Destaque
+- 🔭 **Current Projects**: **IoT**, **game telemetry**, **web applications**, and **automotive solutions**
+- 🌱 **Learning**: **FastAPI**, **Uvicorn**, **Pydantic**, **Poetry**, **Electron.js**, **TypeScript**, **Node.js**, **Python**
+- 🏢 **CEO** of online betting project **Success Bet**: [Success Bet](https://apostouganhou.vercel.app/)
+- 🎓 **Degree**: **Systems Analysis and Development**
+- 💬 **Ask me about**: **FastAPI**, **Electron.js**, **Python**, **REST API creation**, **Rust**, **Euro Truck Simulator 2**, **American Truck Simulator**, **backend development**, **game telemetry**, **mod development**, **automotive solutions**
+- 📫 **Contact**: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
+- 😄 **Pronouns**: He/Him
 
-### 🎮 Aplicações de Jogos
-- **[Game Tracker](https://github.com/eusouanderson/game-tracker)**: Aplicativo para jogadores de Euro Truck Simulator 2 (ETS2) competirem com base em estatísticas de direção em tempo real.  
-  **Tecnologias**: **React**, **Node.js**, **MongoDB**, **NW.js**
+---
 
-- **[Telemetria em Tempo Real](https://github.com/eusouanderson/RealTimeTelemetry)**: Aplicação para exibir dados de telemetria de jogos em tempo real usando **C#** e **React**.
+## 🚀 **Featured Projects**
 
-### 🚛 Mods para Euro Truck Simulator 2
-- **[C70 Truck Mod](https://github.com/eusouanderson/C70-ETS2)**: Modificação do caminhão C70.
-- **[Kenworth K100 Mod](https://github.com/eusouanderson/Kenworth-K100-ETS2)**: Modificação do caminhão Kenworth K100.
+### 🎮 **Game Applications**
+- **[Game Tracker](https://github.com/eusouanderson/game-tracker)**: An app for Euro Truck Simulator 2 (ETS2) players to compete based on real-time driving stats.  
+  **Technologies**: **React**, **Node.js**, **MongoDB**, **NW.js**
 
-### 🌐 Aplicações Web
-- **[Auction App](https://github.com/eusouanderson/auction-app)**: Aplicação de leilões online com suporte a imagens, desenvolvida com **React**, **Node.js**, e **MongoDB**.
+- **[Real-Time Telemetry](https://github.com/eusouanderson/RealTimeTelemetry)**: An app displaying real-time telemetry data from games using **C#** and **React**.
 
-### 🛠️ Ferramentas de Monitoramento
-- **[AntCheating ETS2 Server](https://github.com/eusouanderson/AntCheating-ETS2-)**: Ferramenta para monitorar e prevenir trapaças no Euro Truck Simulator 2.
+### 🚛 **Euro Truck Simulator 2 Mods**
+- **[C70 Truck Mod](https://github.com/eusouanderson/C70-ETS2)**: Mod for the C70 truck.
+- **[Kenworth K100 Mod](https://github.com/eusouanderson/Kenworth-K100-ETS2)**: Mod for the Kenworth K100 truck.
 
-### 🚗 Catálogo de Peças Automotivas
-- API robusta para catálogos de peças automotivas, desenvolvida com **Python** e **MongoDB**, facilitando a integração e a consulta de dados em sistemas automotivos.
+### 🌐 **Web Applications**
+- **[Auction App](https://github.com/eusouanderson/auction-app)**: Online auction app supporting images, built with **React**, **Node.js**, and **MongoDB**.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ **Monitoring Tools**
+- **[AntCheating ETS2 Server](https://github.com/eusouanderson/AntCheating-ETS2-)**: Tool for monitoring and preventing cheating in Euro Truck Simulator 2.
+
+### 🚗 **Automotive Parts Catalog**
+- Robust API for automotive parts catalog, developed with **Python** and **MongoDB**, streamlining data integration and querying in automotive systems.
+
+---
+
+## 🛠️ **Technologies & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,28 +47,35 @@ Apaixonado por tecnologias inovadoras, busco constantemente aprimorar minhas hab
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-- **Linguagens**: Python, JavaScript, TypeScript, C, C#
-- **Frameworks e Ferramentas**: 
-  - **FastAPI** e **Uvicorn**: Desenvolvimento rápido e eficiente de APIs.
-  - **Pydantic**: Validação de dados e modelagem para Python.
-  - **Poetry**: Gerenciamento de dependências e ambientes Python.
-  - **Electron.js**: Desenvolvimento de aplicações desktop.
-  - **React**: Interface interativa e reativa.
-  - **Node.js**: Backend robusto e escalável.
-  - **Flask** e **Django**: Frameworks para desenvolvimento web com Python.
-  - **NW.js**: Para criar aplicações desktop a partir de projetos web.
-- **Bases de Dados**: MongoDB, SQL, Oracle, MySQL, PostgreSQL, Redis, SQLite.
-- **Outros**: Telemetria de Jogos, APIs REST, Desenvolvimento de Mods, Soluções Automotivas
+**Languages**: Python, JavaScript, TypeScript, C, C#  
+**Frameworks & Tools**:
+- **FastAPI** & **Uvicorn**: Quick and efficient API development
+- **Pydantic**: Data validation and modeling in Python
+- **Poetry**: Python dependency and environment management
+- **Electron.js**: Desktop application development
+- **React**: Interactive, reactive interfaces
+- **Node.js**: Robust, scalable backend
+- **Flask** & **Django**: Web development frameworks in Python
+- **NW.js**: Building desktop apps from web projects
 
-## 📈 Estatísticas do GitHub
+**Databases**: MongoDB, SQL, Oracle, MySQL, PostgreSQL, Redis, SQLite  
+**Others**: Game Telemetry, REST APIs, Mod Development, Automotive Solutions
+
+---
+
+## 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eusouanderson&show_icons=true&theme=dark)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=dark)
 
-## 🤝 Vamos Colaborar!
-Se você é apaixonado por tecnologias de jogos, telemetria ou desenvolvimento backend, vamos nos conectar e construir algo incrível juntos!
+---
 
-## 🌐 Onde Me Encontrar
+## 🤝 **Let’s Collaborate!**
+If you're passionate about game tech, telemetry, or backend development, let’s connect and create something amazing together!
+
+---
+
+## 🌐 **Where to Find Me**
 
 - [LinkedIn](https://www.linkedin.com/in/anderson-rodrigues-24003823b/)
 - [GitHub](https://github.com/eusouanderson)
