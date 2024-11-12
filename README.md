@@ -18,7 +18,7 @@
 
 ## 🚀 **Featured Projects**
 
-### 🚗 **[Ferrari Project](https://ferrari-tan.vercel.app/)**:  
+### 🚗 **[Ferrari](https://ferrari-tan.vercel.app/)**:  
 A cutting-edge web app showcasing Ferrari's rich history and futuristic designs. Featuring interactive 3D models and immersive user experience.  
 **Technologies**: **Vue.js**, **Three.js**, **WebGL**, **CSS**
 
