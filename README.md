@@ -1,4 +1,4 @@
-# 👋 **Hello, I’m Anderson Rodrigues!** 🚗🚀
+# 👋 **Hello, I’m Anderson Rodrigues!** 🚗🚀  
 **Fullstack Developer** specializing in cutting-edge technologies, innovative game telemetry solutions, and automotive systems.
 
 ---
@@ -6,7 +6,7 @@
 ## 🖥️ **About Me**
 💚 Passionate about leveraging modern technologies to build high-impact web and desktop applications. From backend systems to interactive front-end experiences, I'm constantly exploring new ways to create efficient and scalable solutions.
 
-- 🔭 **Current Projects**: **Game telemetry**, **IoT**, **Web & Desktop Apps**, **Automotive Mods**, **Graffiti** ([Link](https://graffiti-alpha.vercel.app/)) - *In early stages with constant updates*
+- 🔭 **Current Projects**: **Game telemetry**, **IoT**, **Web & Desktop Apps**, **Automotive Mods**
 - 🌱 **Learning**: **FastAPI**, **Uvicorn**, **Pydantic**, **Electron.js**, **Rust**, **TypeScript**, **Node.js**
 - 🏢 **CEO** of **[Success Bet](https://apostouganhou.vercel.app/)**: Bringing innovative betting experiences online.
 - 🎓 **Degree**: **Systems Analysis and Development**
@@ -16,60 +16,60 @@
 
 ---
 
-## 🚀 **Last Featured Projects**
+## 🚀 **Featured Projects** (constant updates... if work allows! 😆)
 
-### 🚗 **[Ferrari](https://ferrari-tan.vercel.app/)**:  
+### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**
+A creative spray-painting experience for the web, allowing users to unleash their inner artist with interactive particles and smooth animations.  
+**Technologies**: **Vue.js**, **HTML5 Canvas**, **JavaScript**
+
+💡 **Features**:
+- 🖌️ **Interactive Spray Painting**: Real-time particle effects for a smooth, realistic spray experience
+- 🎨 **Various Brush Sizes & Colors**: Customize your spray for maximum creativity
+- 💾 **Save and Share**: Show off your digital masterpieces!
+
+---
+
+### 🚗 **[Ferrari](https://ferrari-tan.vercel.app/)**
 A cutting-edge web app showcasing Ferrari's rich history and futuristic designs. Featuring interactive 3D models and immersive user experience.  
 **Technologies**: **Vue.js**, **Three.js**, **WebGL**, **CSS**
 
 💡 **Features**:
 - 🚗 **Interactive Ferrari Models**: Explore Ferrari cars in 3D
-- 🌐 **Smooth UI/UX**: Built to provide a sleek and intuitive experience
+- 🌐 **Smooth UI/UX**: Sleek and intuitive experience
 - 🖼️ **Dynamic 3D Rendering** with **Three.js**
 
 ---
 
-### 🌳 **[ArkTree](https://ark-tree.vercel.app/)**:  
-An innovative 3D experience focusing on environmental awareness, built with **Vue.js** and **Three.js**. It allows users to explore the importance of environmental preservation through interactive visuals.  
+### 🌳 **[ArkTree](https://ark-tree.vercel.app/)**
+An innovative 3D experience focused on environmental awareness, built with **Vue.js** and **Three.js**.  
 **Technologies**: **Vue.js**, **Three.js**, **WebGL**, **CSS**
 
 💡 **Features**:
-- 🌍 **Environmental Preservation**: A powerful tool for raising environmental awareness
-- 🌱 **3D Interaction**: Learn about sustainable practices through interactive visuals
+- 🌍 **Environmental Preservation**: Raising environmental awareness through interactive visuals
+- 🌱 **3D Interaction**: Sustainable practices via 3D experience
 - 🚀 **WebGL-Based Visuals**: Cutting-edge rendering for a visually striking experience
 
 ---
 
-### 💸 **[Success Bet](https://apostouganhou.vercel.app/)**:  
-An online platform for betting on various topics, from sports to entertainment. A modern **React** app with **Node.js** backend ensuring real-time data processing.  
+### 💸 **[Success Bet](https://apostouganhou.vercel.app/)**
+An online platform for betting on various topics, from sports to entertainment. A modern **React** app with **Node.js** backend.  
 **Technologies**: **React**, **Node.js**, **MongoDB**, **Socket.io**
 
 💡 **Features**:
 - ⚡ **Real-Time Betting**: Bet on live events with real-time data updates.
-- 📊 **Interactive Dashboards**: Get detailed analytics on betting trends and outcomes.
-- 🏆 **Leaderboard System**: Track top winners and best bets.
+- 📊 **Interactive Dashboards**: Detailed analytics on betting trends.
+- 🏆 **Leaderboard System**: Track top winners and bets.
 
 ---
 
-### 🐄 **[Farm Auction](https://farm-simulator-auction-mod.vercel.app/)**:  
-A fun and quirky auction platform where players can bid on hilarious and "useless" items within a farm simulator environment.  
+### 🐄 **[Farm Auction](https://farm-simulator-auction-mod.vercel.app/)**
+A fun and quirky auction platform where players can bid on "unique" items within a farm simulator environment.  
 **Technologies**: **React**, **Node.js**, **MongoDB**
 
 💡 **Features**:
-- 💡 **Unique Auction Experience**: Bid on the oddest items in a farming simulator.
+- 💡 **Unique Auction Experience**: Bid on the most unusual items in a farm setting.
 - 🖼️ **Image Support**: Upload and bid on items with image previews.
-- 🔒 **Secure Transactions**: Backed by **MongoDB** for seamless data management.
-
----
-
-### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**:  
-A creative platform for street art and graffiti enthusiasts. **In early development**, constantly updated with new features and improvements.  
-**Technologies**: **React**, **Node.js**, **MongoDB**, **Canvas API**
-
-💡 **Features**:
-- 🎨 **Create & Share Art**: Design your own graffiti and share with the community.
-- 🖌️ **Interactive Canvas**: Draw with various tools and effects.
-- 🔄 **Constant Updates**: The platform is being regularly updated with new features.
+- 🔒 **Secure Transactions**: MongoDB-backed for seamless data management.
 
 ---
 
@@ -83,17 +83,12 @@ A creative platform for street art and graffiti enthusiasts. **In early developm
 
 **Languages**: Python, JavaScript, TypeScript, C, C#  
 **Frameworks & Tools**:
-- **FastAPI** & **Uvicorn**: Quick and efficient API development
-- **Pydantic**: Data validation and modeling in Python
+- **FastAPI** & **Uvicorn**: Efficient API development
 - **Electron.js**: Desktop application development
-- **React**: Interactive, reactive interfaces
-- **Node.js**: Robust, scalable backend
-- **Vue.js**: Reactive web apps with minimal configuration
+- **Vue.js**: Minimalist reactive web apps
+- **Three.js**: Interactive 3D graphics
 - **MongoDB**: Scalable NoSQL database
-- **Three.js**: 3D graphics rendering for interactive visuals
-
-**Databases**: MongoDB, SQL, Redis, SQLite  
-**Others**: Game Telemetry, REST APIs, Mod Development, Automotive Solutions
+- **React**: Responsive and interactive front-end
 
 ---
 
