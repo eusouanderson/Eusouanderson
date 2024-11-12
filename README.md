@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 **Featured Projects** (constant updates... if work allows! 😆)
+## 🚀 **Last Featured Projects** (constant updates... if work allows! 😆)
 
 ### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**
 A creative spray-painting experience for the web, allowing users to unleash their inner artist with interactive particles and smooth animations.  
