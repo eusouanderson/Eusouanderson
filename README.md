@@ -51,7 +51,7 @@ An online platform for betting on various topics, from sports to entertainment. 
 
 ---
 
-### 🐄 **[Farm Simulator Auction Mod](https://farm-simulator-auction-mod.vercel.app/)**:  
+### 🐄 **[Farm Auction](https://farm-simulator-auction-mod.vercel.app/)**:  
 A fun and quirky auction platform where players can bid on hilarious and "useless" items within a farm simulator environment.  
 **Technologies**: **React**, **Node.js**, **MongoDB**
 
