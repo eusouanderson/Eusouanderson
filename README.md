@@ -6,7 +6,7 @@
 ## 🖥️ **About Me**
 💚 Passionate about leveraging modern technologies to build high-impact web and desktop applications. From backend systems to interactive front-end experiences, I'm constantly exploring new ways to create efficient and scalable solutions.
 
-- 🔭 **Current Projects**: **Game telemetry**, **IoT**, **Web & Desktop Apps**, **Automotive Mods**
+- 🔭 **Current Projects**: **Game telemetry**, **IoT**, **Web & Desktop Apps**, **Automotive Mods**, **Graffiti** ([Link](https://graffiti-alpha.vercel.app/)) - *In early stages with constant updates*
 - 🌱 **Learning**: **FastAPI**, **Uvicorn**, **Pydantic**, **Electron.js**, **Rust**, **TypeScript**, **Node.js**
 - 🏢 **CEO** of **[Success Bet](https://apostouganhou.vercel.app/)**: Bringing innovative betting experiences online.
 - 🎓 **Degree**: **Systems Analysis and Development**
@@ -62,6 +62,17 @@ A fun and quirky auction platform where players can bid on hilarious and "useles
 
 ---
 
+### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**:  
+A creative platform for street art and graffiti enthusiasts. **In early development**, constantly updated with new features and improvements.  
+**Technologies**: **React**, **Node.js**, **MongoDB**, **Canvas API**
+
+💡 **Features**:
+- 🎨 **Create & Share Art**: Design your own graffiti and share with the community.
+- 🖌️ **Interactive Canvas**: Draw with various tools and effects.
+- 🔄 **Constant Updates**: The platform is being regularly updated with new features.
+
+---
+
 ## 🛠️ **Technologies & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +98,6 @@ A fun and quirky auction platform where players can bid on hilarious and "useles
 ---
 
 ## 📈 **GitHub Stats**
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=dark)
 
