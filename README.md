@@ -8,7 +8,6 @@
 
 - 🔭 **Current Projects**: **Game telemetry**, **IoT**, **Web & Desktop Apps**, **Automotive Mods**
 - 🌱 **Learning**: **FastAPI**, **Uvicorn**, **Pydantic**, **Electron.js**, **Rust**, **TypeScript**, **Node.js**
-- 🏢 **CEO** of **[Success Bet](https://apostouganhou.vercel.app/)**: Bringing innovative betting experiences online.
 - 🎓 **Degree**: **Systems Analysis and Development**
 - 💬 **Ask me about**: **FastAPI**, **Rust**, **Electron.js**, **Python**, **Game Telemetry**, **Mod Development**
 - 📫 **Contact**: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
