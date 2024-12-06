@@ -73,14 +73,19 @@ A fun and quirky auction platform where players can bid on "unique" items within
 
 ---
 
-### 🔶 **[Orange - A Program to Optimize Windows 10 for Gaming](https://github.com/eusouanderson/orange)**
-Orange is a program that optimizes the Windows 10 operating system for gaming by helping disable unnecessary processes while gaming. This was one of my first projects, created when I was 16 years old, and I'm currently rebuilding it from scratch to bring new enhancements and optimizations.  
-**Technologies**: **C#**, **Windows API**
+### 🔶 **[Orange Framework - A Python Micro Framework for Cython Compilation](https://github.com/eusouanderson/orange)**
 
-💡 **Features**:
-- ⚡ **Gaming Optimization**: Automatically disables unnecessary background processes to boost gaming performance.
-- 🛠️ **Customizable Settings**: Adjust optimization settings based on specific gaming needs.
-- 🚀 **Improved Performance**: Maximize FPS and responsiveness during gaming sessions.
+Orange Framework is a Python micro framework designed to simplify the process of compiling Python code to Cython, as well as automating the creation of directory structures for both development (dev) and production (prod) environments. It also includes automation scripts for building, testing, and deploying directly to GitHub Releases. Additionally, it provides functionality to create user interfaces using **PyQt**, making it easier to integrate Cython compilation and automation with graphical applications.
+
+**Technologies**: **Python**, **Cython**, **Automation**, **PyQt**, **Build Scripts**, **GitHub Integration**
+
+
+### 💡 **Features**:
+- ⚡ **Cython Compilation**: Simplifies the process of compiling Python code to Cython, enhancing performance.
+- 🛠️ **Automated Directory Setup**: Automatically creates directory structures for both development (dev) and production (prod) environments.
+- 🚀 **Build and Deploy Automation**: Includes automation scripts for building, testing, and deploying directly to GitHub Releases.
+- 🎨 **User Interface with PyQt**: Facilitates the creation of graphical interfaces, integrating Cython compilation and automation into PyQt applications.
+- 🔄 **Cross-Platform Support**: Supports both Linux and Windows environments for building and running projects.
 
 ---
 
