@@ -17,6 +17,28 @@
 ---
 
 ## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
+### 📝 **[Orange Editor](https://github.com/eusouanderson/orange_editor)**
+**Orange Editor** is a simple and functional text editor created with the **Orange Micro Framework**.
+
+#### Features:
+- **Create New File**: Creates a new text file.  
+  **Shortcut**: Ctrl + N
+- **Open File**: Opens an existing text file.  
+  **Shortcut**: Ctrl + O
+- **Save File**: Saves the current content of the editor to a file.  
+  **Shortcut**: Ctrl + S
+- **Change Text Color**: Allows customization of the text color in the editor.  
+  **Shortcut**: Ctrl + F
+- **Toggle Transparency**: Enables or disables window transparency.  
+  **Shortcut**: Ctrl + T
+- **Adjust Transparency**: Controls the transparency of the editor window via a slider.
+
+---
+
+### 🧮 **[Orange Calculator](https://github.com/eusouanderson/orange_calculator)**
+**Orange Calculator** is a graphical calculator built with the **Orange Micro Framework** and **PySide6**. It offers basic arithmetic calculations and advanced mathematical operations, such as trigonometric functions and square roots. The project also allows the user to toggle between a memory view to store previous operations and perform real-time calculations.
+
+---
 
 ### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**
 A creative spray-painting experience for the web, allowing users to unleash their inner artist with interactive particles and smooth animations.  
